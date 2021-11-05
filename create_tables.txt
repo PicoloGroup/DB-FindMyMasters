@@ -1,0 +1,19 @@
+CREATE TABLE TERMS (
+
+university_name TEXT NOT NULL,
+program_name TEXT NOT NULL,
+deadline TEXT NOT NULL,
+academic_req TEXT NOT NULL,
+tution_1_currency TEXT NOT NULL,
+tution_1_money 	INTEGER NOT NULL,
+tution_1_type TEXT NOT NULL,
+tution_2_currency TEXT NOT NULL,
+tution_2_money INTEGER NOT NULL,
+tution_2_type TEXT NOT NULL,
+tuition_price_specification TEXT NOT NULL,
+ielts_score INTEGER NOT NULL,
+
+PRIMARY KEY (university_name, program_name)
+FOREIGN KEY (university_name, program_name) 
+      REFERENCES PROGRAMS (university_name, program_name) 
+);
