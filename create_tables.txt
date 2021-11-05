@@ -53,3 +53,17 @@ sid INTEGER PRIMARY KEY
 
 );
 
+CREATE TABLE APPLICATION (
+
+university_name TEXT NOT NULL,
+program_name TEXT NOT NULL,
+sid INTEGER NOT NULL ,
+aid INTEGER PRIMARY KEY,
+
+FOREIGN KEY (sid) 
+      REFERENCES STUDENTS (sid)
+
+FOREIGN KEY (university_name, program_name) 
+      REFERENCES PROGRAMS (university_name, program_name) 
+
+);
