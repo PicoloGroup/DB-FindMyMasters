@@ -30,3 +30,13 @@ PRIMARY KEY (university_name, country_name, program_name)
 FOREIGN KEY (university_name, program_name)  
       REFERENCES PROGRAMS (university_name, program_name) 
 );
+
+CREATE TABLE PROGRAMS (
+
+university_name TEXT NOT NULL,
+program_name TEXT NOT NULL,
+duration TEXT NOT NULL,
+language TEXT NOT NULL,
+
+PRIMARY KEY (university_name, program_name)
+);
