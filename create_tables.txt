@@ -67,3 +67,22 @@ FOREIGN KEY (university_name, program_name)
       REFERENCES PROGRAMS (university_name, program_name) 
 
 );
+
+CREATE TABLE CITY (
+
+City TEXT NOT NULL,
+Country TEXT NOT NULL,
+Quality_of_Life_Index REAL NOT NULL,		
+Purchasing_Power_Index REAL NOT NULL,	
+Safety_Index REAL NOT NULL,	
+Health_Care_Index REAL NOT NULL,	
+Cost_of_Living_Index REAL NOT NULL,		
+Property_Price_to_Income_Ratio 	REAL NOT NULL,	
+Traffic_Commute_Time_Index REAL NOT NULL,	
+Pollution_Index	REAL NOT NULL,	
+Climate_Index REAL NOT NULL,	
+
+PRIMARY KEY (city, country)
+FOREIGN KEY (Country) 
+      REFERENCES PLACES (country_name) 
+);
