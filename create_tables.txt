@@ -40,3 +40,16 @@ language TEXT NOT NULL,
 
 PRIMARY KEY (university_name, program_name)
 );
+
+CREATE TABLE STUDENTS (
+
+name TEXT NOT NULL,
+gender TEXT NOT NULL,
+birthday DATE NOT NULL,
+ssn INTEGER NOT NULL,
+languages TEXT NOT NULL,
+
+sid INTEGER PRIMARY KEY
+
+);
+
