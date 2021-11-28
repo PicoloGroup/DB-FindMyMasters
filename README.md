@@ -11,10 +11,10 @@
 	
 </p>
 
-## Authentication:
+## Architecture:
 
 <p align="center">
-  <img src="https://github.com/PicoloGroup/DB-FindMyMasters/blob/master/assets/FindMyMastersDB%20-%20Auth.png" />
+  <img src="https://github.com/PicoloGroup/DB-FindMyMasters/blob/master/assets/FindMyMastersDB.png" />
 </p>
 
 <!-- ## Master Programs:
