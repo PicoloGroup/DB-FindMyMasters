@@ -22,7 +22,7 @@ PATH = "../data-version2/master-programs"
 BACKUP_PATH = "../data-version2/master-programs/backup-while-scraping/"
 
 # total number of pages for all programs
-PAGE_COUNT = 1201
+PAGE_COUNT = 700
 
 # columns for csv file
 CSV_COLUMNS = [
@@ -232,19 +232,24 @@ def collect_all_programs_detail(program_urls: list, csv_name: str, backup_every:
 
     for program_url in tqdm(program_urls):
 
-        # get details of the program
-        program_details = _collect_single_program_details(url = program_url)
+        try:
+
+            # get details of the program
+            program_details = _collect_single_program_details(url = program_url)
+        
+        except:
+            continue
 
         # append program details to all programs
         all_programs_detail.append(program_details)
 
-        if verbose:
-            print(f"Collected {index}")
-            print(f"Writing to {csv_name}.csv file...")
-
-        backup_to = f"{BACKUP_PATH}{csv_name}-{index}.csv"
-
         if index % backup_every == 0:
+
+            backup_to = f"{BACKUP_PATH}{csv_name}-{index}.csv"
+
+            if verbose:
+                print(f"Collected {index}")
+                print(f"Writing to {backup_to} file...")
 
             # write all programs details into .csv file
             with open(backup_to, 'w', encoding='UTF8', newline='') as f:
@@ -270,7 +275,7 @@ def collect():
     program_urls = collect_all_programs_url(url=BASE_URL, page_count=PAGE_COUNT)
 
     # collect details of programs and save to .csv
-    collect_all_programs_detail(program_urls=program_urls, csv_name="master-programs", backup_every=500, verbose = True)
+    collect_all_programs_detail(program_urls=program_urls, csv_name="master-programs", backup_every=1000, verbose = True)
     
 
 if __name__ == "__main__":
