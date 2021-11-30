@@ -7,32 +7,73 @@ author: @firattamur
 
 import csv
 import time
-import json
-import shutil
+import json 
 import requests
 from tqdm import tqdm
 from bs4 import BeautifulSoup
 
 
 # base url for master programs
-BASE_URL = "https://www.masterstudies.com/Masters-Degree/Programs/?page="
+BASE_URL = "https://www.masterstudies.com"
 
 # folder path
-PATH = "../data-version2/master-programs"
+PATH        = "../data-version2/master-programs/"
 BACKUP_PATH = "../data-version2/master-programs/backup-while-scraping/"
 
+# field of studies 
+# this will helpful to categorize and recommend master programs to users
+FIELDS = [
+
+    "Administration-Studies",
+    "Architecture-Studies",
+    "Art-Studies",
+    "Aviation",
+    "Business-Studies",
+    "Construction",
+    "Cosmetology-Studies",
+    "Design-Studies",
+    "Economic-Studies",
+    "Education",
+    "Energy-Studies",
+    "Engineering-Studies",
+    "Environmental-Studies",
+    "Fashion",
+    "Food-and-Beverage-Studies",
+    "General-Studies",
+    "Health-Care",
+    "Humanities-Studies",
+    "Journalism-and-Mass-Communication",
+    "Languages",
+    "Law-Studies",
+    "Life-Sciences",
+    "Life-Skills",
+    "Management-Studies",
+    "Marketing-Studies",
+    "Natural-Sciences",
+    "Performing-Arts",
+    "Professional-Studies",
+    "Self-Improvement",
+    "Social-Sciences",
+    "Sport",
+    "Sustainability-Studies",
+    "Technology-Studies",
+    "Tourism-and-Hospitality"
+
+]
+
+
 # total number of pages for all programs
-PAGE_COUNT = 700
+PAGE_COUNT = 200
 
 # columns for csv file
 CSV_COLUMNS = [
-                "name", "university", "duration", "url",
+                "field", "name", "university", "duration", "url",
                 "language", "city", "country", "mode", "deadline",
                 "pace", "tution_amount", "tution_currency"
             ]
 
 
-def _collect_single_page_programs_url(url: str, verbose: bool = False) -> list:
+def _collect_single_page_programs_url(url: str, verbose: bool = False) -> set:
     """
 
     Request a single page from website and collect list of program urls in page.
@@ -43,10 +84,10 @@ def _collect_single_page_programs_url(url: str, verbose: bool = False) -> list:
     :return   : return list of program urls in single page
 
     """
-    programs_url : list[str] = []
+    programs_url : set[str] = set()
 
     # request the page
-    page = requests.get(url)
+    page = requests.get(url, timeout=2)
 
     # parse page 
     soup = BeautifulSoup(page.content, "html.parser")
@@ -58,42 +99,82 @@ def _collect_single_page_programs_url(url: str, verbose: bool = False) -> list:
         links = div.findAll('a')
 
         for a in links:
-            programs_url.append(a["href"])
+
+            if a["href"] == "":
+                continue
+
+            programs_url.add(a["href"])
 
     return programs_url
 
-def collect_all_programs_url(url: str, page_count: int, verbose: bool = False) -> list:
+def collect_all_programs_url(url: str, page_count: int, csv_name: str = "master-programs-url", verbose: bool = False) -> set:
     """
 
     Request all pages for master programs and collect url for each program.
 
     :param: url       : base url for the website
     :param: page_count: number of pages in website
+    :param csv_name: name of .csv file to keep urls
     :param verbose: print details of request
 
     :return: list of program urls
 
     """
+    save_to = f"{PATH}{csv_name}.csv"
 
-    program_urls: list[str] = []
+    # write all programs details into .csv file
+    with open(save_to, 'w', encoding='UTF8', newline='') as f:
+        writer = csv.writer(f)
 
-    for program in tqdm(range(1, page_count + 1)):
+        # write the header
+        writer.writerow(["field", "url"])
 
-        # url for the single page
-        page_url = BASE_URL + str(program)
+    print("Collecting Master Programs Url...")
 
-        try:
-            # get all program list in single page
-            programs_in_single_page = _collect_single_page_programs_url(url = page_url)
+    for field in FIELDS:
+
+        program_urls: set[str] = set()
+
+        print(field, end="")
+        print()
+
+        timeout_count = 0
+
+        for program in tqdm(range(1, page_count + 1)):
+
+            # if we have timeout 3 times than there will be no page no need to wait
+            if timeout_count == 3:
+                break
+
+            # url for the single page
+            page_url = f"{BASE_URL}/Masters-Degree/{field}/?page={program}"
+
+            try:
+
+                # get all program list in single page
+                programs_in_single_page = _collect_single_page_programs_url(url = page_url)
+                
+                # add collected program urls to list
+                program_urls.update(programs_in_single_page)
+
+            except:
+                
+                # we did not get page we requested because of timeout
+                # probably because page does not exist
+                timeout_count += 1
+
+                continue   
+
+        print(f"{field} - Collected: {len(program_urls)}...")
             
-            # add collected program urls to list
-            program_urls.extend(programs_in_single_page)
+        # write all programs details into .csv file
+        with open(save_to, 'a', encoding='UTF8', newline='') as f:
+            writer = csv.writer(f)
 
-            # in case of url request protection
-            time.sleep(0.5)
-        except:
-            continue
-
+            for program in program_urls:
+                # write multiple rows
+                writer.writerow([field, program])
+        
     return program_urls
 
 
@@ -130,7 +211,7 @@ def _collect_single_program_details(url: str, verbose: bool = False) -> dict:
         program_details.append(program["name"])
     except:
         program_details.append("null")
- 
+
     try:
         # university name
         program_details.append(data[":school"].strip('"'))
@@ -213,7 +294,7 @@ def _collect_single_program_details(url: str, verbose: bool = False) -> dict:
     return program_details    
 
 
-def collect_all_programs_detail(program_urls: list, csv_name: str, backup_every: int, verbose: bool = False) -> list:
+def collect_all_programs_detail(read_from_csv: str, csv_name: str, backup_every: int, verbose: bool = False) -> list:
     """
 
     Request all program urls and save all programs detail in .csv file.
@@ -228,40 +309,71 @@ def collect_all_programs_detail(program_urls: list, csv_name: str, backup_every:
 
     all_programs_detail : list[list[str]] = []
 
-    index = 1
+    print("Collecting Master Programs Detail...")
 
-    for program_url in tqdm(program_urls):
+    # path of csv file
+    read_from_csv = f"{PATH}{read_from_csv}.csv"
 
-        try:
+    # row in csv file
+    line_number = 0
 
-            # get details of the program
-            program_details = _collect_single_program_details(url = program_url)
+    # write all programs details into .csv file
+    with open(read_from_csv, 'r', encoding='UTF8', newline='') as f:
         
-        except:
-            continue
+        reader = csv.reader(f)
 
-        # append program details to all programs
-        all_programs_detail.append(program_details)
+        for row in tqdm(reader):
+            
+            if line_number == 0:
+                line_number += 1
+                continue
+            
+            try:
 
-        if index % backup_every == 0:
+                program_field, program_url = row[0], row[1]
 
-            backup_to = f"{BACKUP_PATH}{csv_name}-{index}.csv"
+                # get details of the program
+                program_details = _collect_single_program_details(url = program_url)
 
-            if verbose:
-                print(f"Collected {index}")
-                print(f"Writing to {backup_to} file...")
+                program_details = [program_field] + program_details
+            
+            except:
+                continue
 
-            # write all programs details into .csv file
-            with open(backup_to, 'w', encoding='UTF8', newline='') as f:
-                writer = csv.writer(f)
+            # append program details to all programs
+            all_programs_detail.append(program_details)
 
-                # write the header
-                writer.writerow(CSV_COLUMNS)
+            if line_number % backup_every == 0:
 
-                # write multiple rows
-                writer.writerows(all_programs_detail)
+                backup_to = f"{BACKUP_PATH}{csv_name}-{line_number}.csv"
 
-        index += 1
+                if verbose:
+                    print(f"Collected {line_number}")
+                    print(f"Writing to {backup_to} file...")
+
+                # write all programs details into .csv file
+                with open(backup_to, 'w', encoding='UTF8', newline='') as f:
+                    writer = csv.writer(f)
+
+                    # write the header
+                    writer.writerow(CSV_COLUMNS)
+
+                    # write multiple rows
+                    writer.writerows(all_programs_detail)
+
+            line_number += 1
+
+    csv_name = f"{PATH}{csv_name}.csv"
+
+    # write all programs details into .csv file
+    with open(csv_name, 'w', encoding='UTF8', newline='') as f:
+        writer = csv.writer(f)
+
+        # write the header
+        writer.writerow(CSV_COLUMNS)
+
+        # write multiple rows
+        writer.writerows(all_programs_detail)
     
 
 def collect():
@@ -272,10 +384,10 @@ def collect():
     """
 
     # collect list of all programs
-    program_urls = collect_all_programs_url(url=BASE_URL, page_count=PAGE_COUNT)
+    # collect_all_programs_url(url=BASE_URL, page_count=PAGE_COUNT)
 
     # collect details of programs and save to .csv
-    collect_all_programs_detail(program_urls=program_urls, csv_name="master-programs", backup_every=1000, verbose = True)
+    collect_all_programs_detail(read_from_csv="master-programs-url", csv_name="master-programs", backup_every=1000, verbose = True)
     
 
 if __name__ == "__main__":
