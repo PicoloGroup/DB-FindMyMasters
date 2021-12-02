@@ -1,0 +1,12 @@
+city,country,Purchasing Power Index,Purchasing Power Index Category,Safety Index,Safety Index Category,Health Care Index,Health Care Index Category,Climate Index,Climate Index Category,Cost of Living Index,Cost of Living Index Category,Property Price to Income Ratio,Property Price to Income Ratio Category,Traffic Commute Time Index,Traffic Commute Time Index Category,Pollution Index,Pollution Index Category,Quality of Life Index,Quality of Life Index Category
+Constantine,Algeria,24.92,Very Low,55.32,Moderate,40.28,Moderate,84.71,Very High,27.61,Very Low,14.00,High,55.50,Very High,68.82,High,91.58,Very Low
+Jijel,Algeria,?,,54.66,Moderate,43.06,Moderate,?,,?,,13.02,High,20.00,Very Low,53.45,Moderate,?,
+Oran,Algeria,21.01,Very Low,45.78,Moderate,55.32,Moderate,96.35,Very High,28.43,Very Low,22.22,Very High,105.00,Very High,58.87,Moderate,68.73,Very Low
+Setif,Algeria,20.84,Very Low,39.92,Low,59.26,Moderate,80.17,Very High,26.38,Very Low,94.89,Very High,13.50,Very Low,72.41,High,26.16,Very Low
+Skikda,Algeria,?,,86.76,Very High,22.22,Low,?,,?,,?,,3.00,Very Low,117.24,Very High,?,
+Tebessa,Algeria,?,,48.53,Moderate,43.52,Moderate,82.86,Very High,?,,6.67,Low,25.00,Very Low,22.41,Low,?,
+Tizi-ouzou,Algeria,?,,41.20,Moderate,44.44,Moderate,94.76,Very High,?,,9.22,Moderate,15.00,Very Low,95.69,Very High,?,
+Tlemcen,Algeria,?,,43.55,Moderate,42.82,Moderate,89.09,Very High,?,,21.35,Very High,56.67,Very High,40.52,Moderate,?,
+Mendoza,Argentina,?,,31.74,Low,71.83,High,87.76,Very High,?,,21.26,Very High,42.67,High,39.29,Low,?,
+Salta,Argentina,?,,49.02,Moderate,91.67,Very High,94.43,Very High,?,,9.99,Moderate,20.00,Very Low,52.50,Moderate,?,
+Tucuman,Argentina,?,,19.78,Very Low,77.78,High,?,,?,,?,,45.00,High,66.38,High,?,

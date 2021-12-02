@@ -6,7 +6,6 @@ author: @firattamur
 
 
 import csv
-import time
 import json 
 import requests
 from tqdm import tqdm
