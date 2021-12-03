@@ -1,4 +1,7 @@
 city,country,Purchasing Power Index,Purchasing Power Index Category,Safety Index,Safety Index Category,Health Care Index,Health Care Index Category,Climate Index,Climate Index Category,Cost of Living Index,Cost of Living Index Category,Property Price to Income Ratio,Property Price to Income Ratio Category,Traffic Commute Time Index,Traffic Commute Time Index Category,Pollution Index,Pollution Index Category,Quality of Life Index,Quality of Life Index Category
+Kabul,Afghanistan,21.12,Very Low,21.47,Low,29.06,Low,?,,23.82,Very Low,14.82,High,56.17,Very High,92.00,Very High,?,
+Tirana,Albania,31.24,Very Low,56.95,Moderate,48.69,Moderate,86.43,Very High,38.10,Very Low,16.02,Very High,39.93,Moderate,87.82,Very High,90.91,Very Low
+Algiers,Algeria,21.75,Very Low,45.56,Moderate,54.45,Moderate,94.82,Very High,29.91,Very Low,28.56,Very High,56.08,Very High,70.38,High,78.36,Very Low
 Constantine,Algeria,24.92,Very Low,55.32,Moderate,40.28,Moderate,84.71,Very High,27.61,Very Low,14.00,High,55.50,Very High,68.82,High,91.58,Very Low
 Jijel,Algeria,?,,54.66,Moderate,43.06,Moderate,?,,?,,13.02,High,20.00,Very Low,53.45,Moderate,?,
 Oran,Algeria,21.01,Very Low,45.78,Moderate,55.32,Moderate,96.35,Very High,28.43,Very Low,22.22,Very High,105.00,Very High,58.87,Moderate,68.73,Very Low
@@ -7,278 +10,816 @@ Skikda,Algeria,?,,86.76,Very High,22.22,Low,?,,?,,?,,3.00,Very Low,117.24,Very H
 Tebessa,Algeria,?,,48.53,Moderate,43.52,Moderate,82.86,Very High,?,,6.67,Low,25.00,Very Low,22.41,Low,?,
 Tizi-ouzou,Algeria,?,,41.20,Moderate,44.44,Moderate,94.76,Very High,?,,9.22,Moderate,15.00,Very Low,95.69,Very High,?,
 Tlemcen,Algeria,?,,43.55,Moderate,42.82,Moderate,89.09,Very High,?,,21.35,Very High,56.67,Very High,40.52,Moderate,?,
+Luanda,Angola,24.50,Very Low,32.80,Low,38.31,Low,79.91,High,62.70,Moderate,16.60,Very High,56.33,Very High,97.55,Very High,52.09,Very Low
+Saint John's,Antigua And Barbuda,62.33,Moderate,52.53,Moderate,62.14,High,56.94,Moderate,76.13,High,6.92,Low,19.33,Very Low,24.41,Low,154.56,High
+Buenos Aires,Argentina,27.93,Very Low,36.92,Low,69.39,High,98.28,Very High,35.14,Very Low,32.34,Very High,48.15,High,52.43,Moderate,95.26,Very Low
+Cordoba,Argentina,?,,39.84,Low,70.13,High,99.95,Very High,?,,7.93,Low,33.00,Low,72.30,High,?,
 Mendoza,Argentina,?,,31.74,Low,71.83,High,87.76,Very High,?,,21.26,Very High,42.67,High,39.29,Low,?,
 Salta,Argentina,?,,49.02,Moderate,91.67,Very High,94.43,Very High,?,,9.99,Moderate,20.00,Very Low,52.50,Moderate,?,
+San Juan,Argentina,67.23,Moderate,30.98,Low,63.45,High,71.25,High,69.68,Moderate,5.54,Low,37.46,Moderate,50.83,Moderate,126.38,Moderate
 Tucuman,Argentina,?,,19.78,Very Low,77.78,High,?,,?,,?,,45.00,High,66.38,High,?,
+Yerevan,Armenia,30.04,Very Low,77.90,High,56.37,Moderate,63.42,High,33.34,Very Low,16.78,Very High,32.19,Low,57.19,Moderate,120.32,Moderate
+Aruba,Aruba,?,,79.12,High,47.22,Moderate,59.66,Moderate,?,,?,,7.00,Very Low,13.79,Very Low,?,
+Adelaide,Australia,103.84,High,70.82,High,80.75,Very High,94.96,Very High,75.78,High,4.37,Very Low,24.18,Very Low,18.17,Very Low,204.75,Very High
 Albury,Australia,?,,45.95,Moderate,80.56,Very High,90.27,Very High,?,,?,,11.50,Very Low,11.18,Very Low,?,
 Bathurst,Australia,?,,52.81,Moderate,97.22,Very High,89.58,Very High,?,,?,,11.00,Very Low,22.01,Low,?,
+Brisbane,Australia,102.54,High,65.43,High,82.09,Very High,98.07,Very High,78.33,High,6.25,Low,39.88,Moderate,22.66,Low,190.13,Very High
 Buderim,Australia,?,,70.31,High,76.85,High,98.28,Very High,?,,4.07,Very Low,40.00,Moderate,11.21,Very Low,?,
+Bundaberg,Australia,?,,62.26,High,91.67,Very High,96.85,Very High,?,,?,,40.00,Moderate,41.70,Moderate,?,
+Cairns,Australia,74.92,Moderate,39.11,Low,67.41,High,89.82,Very High,77.46,High,5.68,Low,39.88,Moderate,28.92,Low,153.79,High
+Canberra,Australia,104.16,High,77.56,High,82.17,Very High,82.72,Very High,76.15,High,5.19,Low,23.91,Very Low,13.37,Very Low,207.21,Very High
 Coffs Harbour,Australia,?,,64.49,High,64.81,High,97.98,Very High,?,,?,,21.67,Very Low,17.82,Very Low,?,
+Darwin,Australia,110.76,Very High,41.54,Moderate,56.53,Moderate,79.19,High,80.82,High,16.16,Very High,24.65,Very Low,24.08,Low,161.46,Very High
+Denver,Australia,135.09,Very High,54.99,Moderate,69.41,High,56.28,Moderate,75.49,High,3.88,Very Low,36.24,Moderate,43.92,Moderate,169.22,Very High
+Derby,Australia,124.48,Very High,55.66,Moderate,75.69,High,88.79,Very High,70.59,Moderate,5.72,Low,33.86,Low,29.83,Low,187.90,Very High
 Dubbo,Australia,?,,40.08,Moderate,75.00,High,?,,?,,?,,8.00,Very Low,22.59,Low,?,
 Geraldton,Australia,?,,30.64,Low,63.89,High,96.15,Very High,?,,4.36,Very Low,12.00,Very Low,24.71,Low,?,
+Hobart,Australia,103.19,High,67.68,High,65.07,High,90.62,Very High,71.84,Moderate,4.12,Very Low,20.78,Very Low,13.87,Very Low,200.41,Very High
 Hoppers Crossing,Australia,?,,48.41,Moderate,100.00,Very High,96.09,Very High,?,,?,,17.00,Very Low,22.41,Low,?,
 Ipswich,Australia,?,,43.76,Moderate,70.37,High,96.30,Very High,?,,?,,20.00,Very Low,46.55,Moderate,?,
+Launceston,Australia,?,,57.12,Moderate,61.81,High,87.08,Very High,?,,5.71,Low,13.33,Very Low,43.33,Moderate,?,
+Melbourne,Australia,103.50,High,56.07,Moderate,76.37,High,94.30,Very High,75.90,High,8.13,Moderate,40.51,Moderate,25.91,Low,178.17,Very High
+Perth,Australia,113.08,Very High,58.09,Moderate,77.79,High,95.71,Very High,77.15,High,5.45,Low,35.62,Moderate,23.40,Low,190.71,Very High
+Richmond,Australia,135.36,Very High,54.11,Moderate,73.86,High,81.27,Very High,67.68,Moderate,4.01,Very Low,21.96,Very Low,31.14,Low,195.31,Very High
 Rockhampton,Australia,?,,29.64,Low,72.22,High,94.43,Very High,?,,?,,29.67,Low,20.57,Low,?,
+Sydney,Australia,103.49,High,66.46,High,78.62,High,97.07,Very High,82.41,High,10.28,Moderate,43.55,High,27.50,Low,179.81,Very High
+Townsville,Australia,?,,43.17,Moderate,76.51,High,92.07,Very High,?,,?,,18.43,Very Low,27.54,Low,?,
 Dornbirn,Austria,?,,92.31,Very High,68.06,High,?,,?,,9.98,Moderate,40.00,Moderate,10.34,Very Low,?,
+Innsbruck,Austria,66.54,Moderate,76.32,High,75.62,High,74.57,High,76.60,High,15.08,High,25.89,Very Low,23.33,Low,168.64,Very High
 Klagenfurt,Austria,65.96,Moderate,56.55,Moderate,53.47,Moderate,74.35,High,76.86,High,9.76,Moderate,9.00,Very Low,28.16,Low,160.11,Very High
+Vienna,Austria,78.04,Moderate,73.57,High,78.83,High,81.77,Very High,67.09,Moderate,13.89,High,26.37,Very Low,17.44,Very Low,181.37,Very High
 Villach,Austria,69.95,Moderate,71.98,High,73.53,High,75.94,High,76.23,High,7.63,Low,17.39,Very Low,21.54,Low,180.39,Very High
+Baku,Azerbaijan,27.95,Very Low,69.01,High,44.26,Moderate,91.40,Very High,31.49,Very Low,17.39,Very High,37.63,Moderate,75.84,High,103.94,Low
+Freeport,Bahamas,88.18,High,83.82,Very High,19.44,Very Low,80.78,Very High,83.12,High,1.25,Very Low,12.50,Very Low,13.79,Very Low,186.89,Very High
+George Town,Bahamas,54.90,Low,67.65,High,81.54,Very High,58.15,Moderate,33.90,Very Low,8.58,Moderate,25.00,Very Low,55.46,Moderate,146.34,High
+Nassau,Bahamas,46.61,Low,35.62,Low,42.48,Moderate,85.98,Very High,86.12,High,4.36,Very Low,28.50,Low,60.46,High,114.58,Low
+Manama,Bahrain,62.56,Moderate,78.59,High,66.42,High,64.31,High,54.09,Low,6.21,Low,30.75,Low,61.24,High,144.50,Moderate
+Dhaka,Bangladesh,23.07,Very Low,34.92,Low,40.02,Moderate,71.29,High,35.56,Very Low,17.43,Very High,58.52,Very High,93.33,Very High,54.00,Very Low
 Khulna,Bangladesh,?,,48.02,Moderate,80.56,Very High,?,,?,,?,,22.50,Very Low,51.07,Moderate,?,
+Bridgetown,Barbados,38.50,Very Low,59.54,Moderate,66.11,High,71.34,High,87.60,High,?,,36.67,Moderate,20.69,Low,?,
+Christchurch,Barbados,89.23,High,60.12,High,79.94,High,88.79,Very High,75.34,High,4.76,Very Low,22.43,Very Low,23.08,Low,188.43,Very High
 Brest,Belarus,34.50,Very Low,39.52,Low,26.94,Low,74.17,High,27.69,Very Low,10.11,Moderate,28.33,Low,65.34,High,98.45,Very Low
+Brest,Belarus,?,,46.10,Moderate,87.40,Very High,93.14,Very High,?,,?,,35.00,Moderate,28.07,Low,?,
+Minsk,Belarus,31.53,Very Low,39.65,Low,46.23,Moderate,64.37,High,32.96,Very Low,18.82,Very High,30.22,Low,41.56,Moderate,107.46,Low
+Antwerp,Belgium,86.30,High,63.58,High,80.53,Very High,85.42,Very High,71.15,Moderate,5.78,Low,38.32,Moderate,59.10,Moderate,155.54,High
+Brussels,Belgium,88.63,High,48.33,Moderate,74.42,High,83.85,Very High,73.53,High,6.66,Low,37.00,Moderate,62.13,High,143.40,Moderate
+Belize City,Belize,28.12,Very Low,35.35,Low,47.78,Moderate,67.93,High,61.86,Moderate,6.72,Low,0.00,Very Low,67.82,High,112.56,Low
+Belmopan,Belize,?,,56.62,Moderate,35.42,Low,68.24,High,?,,?,,20.50,Very Low,44.54,Moderate,?,
 Cotonou,Benin,?,,62.71,High,44.44,Moderate,61.89,High,?,,?,,26.00,Very Low,87.93,Very High,?,
 Hamilton,Bermuda,79.40,Moderate,68.92,High,74.78,High,91.82,Very High,148.93,Very High,6.87,Low,39.62,Moderate,15.92,Very Low,174.55,Very High
+Hamilton,Bermuda,85.02,High,45.93,Moderate,80.59,Very High,61.06,High,65.36,Moderate,8.05,Moderate,33.03,Low,55.35,Moderate,141.56,Moderate
 Thimphu,Bhutan,19.66,Very Low,62.57,High,62.64,High,84.68,Very High,42.77,Low,45.13,Very High,0.00,Very Low,60.58,High,102.64,Low
+Cochabamba,Bolivia,38.98,Very Low,32.29,Low,46.97,Moderate,88.74,Very High,32.67,Very Low,8.11,Moderate,28.40,Low,80.54,Very High,100.84,Low
+La Paz,Bolivia,37.06,Very Low,46.18,Moderate,45.83,Moderate,55.46,Moderate,37.54,Very Low,9.83,Moderate,59.20,Very High,81.66,Very High,77.11,Very Low
 Santa Cruz,Bolivia,33.11,Very Low,38.25,Low,51.11,Moderate,81.58,Very High,37.85,Very Low,10.15,Moderate,35.60,Moderate,59.67,Moderate,108.49,Low
+Sarajevo,Bosnia And Herzegovina,44.14,Low,55.93,Moderate,57.47,Moderate,78.18,High,37.00,Very Low,11.68,Moderate,28.12,Low,68.12,High,119.82,Low
+Gaborone,Botswana,53.84,Low,45.38,Moderate,60.72,High,88.87,Very High,41.65,Low,56.36,Very High,28.53,Low,44.10,Moderate,93.94,Very Low
 Americana,Brazil,?,,14.22,Very Low,47.22,Moderate,?,,?,,?,,35.00,Moderate,79.31,High,?,
 Bauru,Brazil,?,,54.83,Moderate,66.67,High,91.76,Very High,?,,?,,16.25,Very Low,44.25,Moderate,?,
 Belem,Brazil,23.30,Very Low,22.44,Low,46.28,Moderate,64.56,High,33.79,Very Low,12.26,High,29.25,Low,60.44,High,90.01,Very Low
+Belo Horizonte,Brazil,20.81,Very Low,36.22,Low,63.61,High,98.50,Very High,31.76,Very Low,20.78,Very High,43.23,High,52.49,Moderate,104.16,Low
+Brasilia,Brazil,44.77,Low,39.45,Low,51.17,Moderate,98.97,Very High,35.94,Very Low,10.77,Moderate,29.74,Low,32.89,Low,139.93,Moderate
+Campinas,Brazil,31.94,Very Low,33.50,Low,60.98,High,98.87,Very High,38.62,Very Low,11.75,Moderate,27.96,Low,47.50,Moderate,125.61,Moderate
 Campo Grande,Brazil,18.19,Very Low,46.59,Moderate,63.89,High,96.36,Very High,31.55,Very Low,16.88,Very High,49.25,High,24.08,Low,127.54,Moderate
 Cuiaba,Brazil,?,,35.00,Low,65.28,High,82.29,Very High,?,,9.29,Moderate,18.00,Very Low,78.45,High,?,
+Curitiba,Brazil,30.01,Very Low,37.86,Low,66.14,High,99.60,Very High,30.52,Very Low,16.10,Very High,32.24,Low,31.43,Low,134.37,Moderate
+Florianopolis,Brazil,31.29,Very Low,47.56,Moderate,58.31,Moderate,97.00,Very High,31.68,Very Low,15.78,High,44.76,High,39.82,Low,124.08,Moderate
+Fortaleza,Brazil,19.98,Very Low,21.73,Low,49.05,Moderate,80.35,Very High,31.85,Very Low,20.40,Very High,45.33,High,52.85,Moderate,83.77,Very Low
 Foz do Iguaçu,Brazil,?,,40.44,Moderate,56.94,Moderate,96.86,Very High,?,,18.04,Very High,35.67,Moderate,17.82,Very Low,?,
 Londrina,Brazil,?,,46.56,Moderate,70.83,High,97.01,Very High,?,,?,,25.86,Very Low,29.31,Low,?,
+Manaus,Brazil,?,,29.16,Low,45.98,Moderate,67.93,High,?,,?,,37.88,Moderate,79.34,High,?,
 Maringa,Brazil,?,,50.36,Moderate,72.69,High,97.27,Very High,?,,12.50,High,26.00,Very Low,11.21,Very Low,?,
-Sao Paulo,Brazil,29.24,Very Low,29.70,Low,58.35,Moderate,99.04,Very High,36.33,Very Low,16.82,Very High,50.54,High,79.55,High,84.15,Very Low
+Porto Alegre,Brazil,35.25,Very Low,26.35,Low,63.30,High,98.74,Very High,31.77,Very Low,12.94,High,31.98,Low,56.43,Moderate,115.78,Low
+Recife,Brazil,35.71,Very Low,23.51,Low,61.94,High,79.28,High,34.46,Very Low,11.93,Moderate,45.79,High,70.93,High,91.68,Very Low
+Salvador,Brazil,?,,24.07,Low,57.81,Moderate,82.81,Very High,?,,?,,38.35,Moderate,41.21,Moderate,?,
+Sao Paulo,Brazil,29.48,Very Low,29.70,Low,58.35,Moderate,99.04,Very High,35.95,Very Low,17.09,Very High,50.54,High,79.55,High,84.00,Very Low
+Sao Paulo,Brazil,29.48,Very Low,29.70,Low,58.35,Moderate,99.04,Very High,35.95,Very Low,17.09,Very High,50.54,High,79.55,High,84.00,Very Low
 Teresina,Brazil,?,,23.87,Low,62.78,High,52.40,Moderate,?,,19.02,Very High,43.00,High,39.66,Low,?,
 Uberlandia,Brazil,?,,29.72,Low,57.64,Moderate,98.61,Very High,?,,13.79,High,24.50,Very Low,35.78,Low,?,
 Vila Velha,Brazil,?,,33.97,Low,51.85,Moderate,90.28,Very High,?,,28.12,Very High,30.00,Low,60.63,High,?,
+Vitoria,Brazil,42.13,Low,52.00,Moderate,67.07,High,90.39,Very High,32.26,Very Low,10.71,Moderate,42.11,High,61.09,High,124.08,Moderate
+Bandar Seri Begawan,Brunei,84.88,Moderate,72.94,High,75.89,High,56.98,Moderate,47.45,Low,3.19,Very Low,27.62,Low,31.43,Low,177.07,Very High
+Sofia,Bulgaria,55.53,Low,57.37,Moderate,57.48,Moderate,76.01,High,41.03,Low,9.17,Moderate,30.70,Low,68.59,High,124.88,Moderate
+Varna,Bulgaria,45.79,Low,63.36,High,61.79,High,85.08,Very High,38.87,Very Low,8.74,Moderate,30.85,Low,64.02,High,132.34,Moderate
+Phnom Penh,Cambodia,14.58,Very Low,47.03,Moderate,49.00,Moderate,59.43,Moderate,50.33,Low,31.79,Very High,30.85,Low,80.50,Very High,62.84,Very Low
+Siem Reap,Cambodia,8.21,Very Low,63.74,High,41.53,Moderate,63.63,High,47.97,Low,30.63,Very High,7.50,Very Low,69.31,High,87.59,Very Low
+Douala,Cameroon,13.48,Very Low,24.77,Low,34.03,Low,59.46,Moderate,42.43,Low,20.35,Very High,40.00,Moderate,94.14,Very High,43.86,Very Low
 Yaounde,Cameroon,?,,52.21,Moderate,46.76,Moderate,88.55,Very High,?,,9.03,Moderate,20.00,Very Low,93.41,Very High,?,
 Airdrie,Canada,?,,62.06,High,87.50,Very High,?,,?,,5.17,Low,31.00,Low,43.97,Moderate,?,
+Burlington,Canada,123.73,Very High,64.48,High,70.93,High,55.47,Moderate,86.87,High,2.99,Very Low,25.00,Very Low,7.93,Very Low,199.12,Very High
+Calgary,Canada,120.76,Very High,64.69,High,75.74,High,33.09,Moderate,70.37,Moderate,3.50,Very Low,30.00,Low,24.00,Low,180.43,Very High
+Cambridge,Canada,92.68,High,71.06,High,74.47,High,91.37,Very High,72.56,High,8.73,Moderate,33.56,Low,32.18,Low,178.62,Very High
+Charlottetown,Canada,65.41,Moderate,67.59,High,55.56,Moderate,48.57,Moderate,74.11,High,2.96,Very Low,18.33,Very Low,11.15,Very Low,171.40,Very High
+Edmonton,Canada,109.68,High,56.54,Moderate,78.68,High,32.11,Moderate,70.79,Moderate,3.46,Very Low,29.47,Low,29.37,Low,169.46,Very High
+Fort McMurray,Canada,?,,40.79,Moderate,64.26,High,6.57,Low,?,,3.21,Very Low,43.08,High,40.01,Moderate,?,
+Fredericton,Canada,74.00,Moderate,68.67,High,56.89,Moderate,33.20,Moderate,72.94,High,2.48,Very Low,21.08,Very Low,18.24,Very Low,165.29,Very High
+Grande Prairie,Canada,73.87,Moderate,35.77,Low,79.40,High,12.39,Low,78.98,High,4.51,Very Low,17.33,Very Low,17.89,Very Low,150.32,High
+Halifax,Canada,87.10,High,59.30,Moderate,69.29,High,58.99,Moderate,73.64,High,5.05,Low,30.46,Low,22.96,Low,168.91,Very High
+Hamilton,Canada,85.02,High,45.93,Moderate,80.59,Very High,61.06,High,65.36,Moderate,8.05,Moderate,33.03,Low,55.35,Moderate,141.56,Moderate
 Kanata,Canada,?,,24.37,Low,69.44,High,45.15,Moderate,?,,6.24,Low,7.00,Very Low,3.45,Very Low,?,
+Kelowna,Canada,77.64,Moderate,46.05,Moderate,74.93,High,59.65,Moderate,67.84,Moderate,6.29,Low,28.93,Low,26.59,Low,158.66,High
+London,Canada,88.61,High,46.82,Moderate,70.78,High,88.25,Very High,84.52,High,14.68,High,43.72,High,57.91,Moderate,132.98,Moderate
 Maple Ridge,Canada,85.53,High,49.30,Moderate,75.56,High,34.74,Moderate,73.26,High,6.42,Low,37.00,Moderate,41.38,Moderate,140.83,Moderate
 Milton,Canada,?,,58.53,Moderate,90.74,Very High,53.31,Moderate,?,,4.23,Very Low,30.00,Low,26.01,Low,?,
+Mississauga,Canada,101.51,High,57.34,Moderate,69.89,High,58.72,Moderate,70.08,Moderate,8.79,Moderate,38.25,Moderate,24.20,Low,165.74,Very High
+Montreal,Canada,93.93,High,69.64,High,64.29,High,52.37,Moderate,68.42,Moderate,7.68,Low,39.89,Moderate,33.25,Low,158.93,High
 Nelson BC,Canada,?,,66.76,High,80.56,Very High,71.69,High,?,,6.60,Low,26.67,Very Low,12.84,Very Low,?,
+North Bay,Canada,?,,42.58,Moderate,68.52,High,26.61,Moderate,?,,15.80,High,13.33,Very Low,17.67,Very Low,?,
 North Vancouver,Canada,119.43,Very High,79.47,High,75.23,High,91.15,Very High,68.34,Moderate,8.91,Moderate,49.62,High,16.94,Very Low,196.13,Very High
 Okotoks,Canada,?,,83.82,Very High,88.89,Very High,?,,?,,?,,30.00,Low,10.34,Very Low,?,
+Ottawa,Canada,100.36,High,73.95,High,74.56,High,44.46,Moderate,71.79,Moderate,5.02,Low,31.15,Low,21.82,Low,179.45,Very High
 Prince Albert,Canada,?,,37.35,Low,83.33,Very High,9.08,Low,?,,?,,15.00,Very Low,33.62,Low,?,
-Woodstock,Canada,?,,44.33,Moderate,66.67,High,55.89,Moderate,?,,5.07,Low,8.00,Very Low,53.45,Moderate,?,
+Prince George,Canada,101.95,High,34.57,Low,59.72,Moderate,36.07,Moderate,70.74,Moderate,2.47,Very Low,10.00,Very Low,40.61,Moderate,152.36,High
+Quebec City,Canada,87.99,High,84.78,Very High,72.76,High,47.98,Moderate,66.60,Moderate,4.93,Very Low,27.53,Low,27.63,Low,178.92,Very High
+Regina,Canada,104.52,High,46.59,Moderate,66.91,High,14.28,Low,68.34,Moderate,3.96,Very Low,17.20,Very Low,39.86,Low,150.66,High
+Richmond,Canada,135.36,Very High,54.11,Moderate,73.86,High,81.27,Very High,67.68,Moderate,4.01,Very Low,21.96,Very Low,31.14,Low,195.31,Very High
+Sudbury,Canada,81.56,Moderate,40.42,Moderate,58.33,Moderate,26.66,Moderate,70.48,Moderate,6.34,Low,38.12,Moderate,40.97,Moderate,125.29,Moderate
+Thunder Bay,Canada,59.60,Low,33.54,Low,64.15,High,20.33,Moderate,73.72,High,5.68,Low,17.29,Very Low,23.39,Low,135.76,Moderate
+Toronto,Canada,101.91,High,58.86,Moderate,75.92,High,65.35,High,72.00,High,10.52,Moderate,45.05,High,37.81,Low,156.89,High
+Vancouver,Canada,92.57,High,62.78,High,75.08,High,91.15,Very High,73.53,High,11.64,Moderate,36.90,Moderate,25.03,Low,174.70,Very High
+Victoria,Canada,89.68,High,63.95,High,69.88,High,92.52,Very High,73.33,High,7.97,Low,28.47,Low,14.62,Very Low,187.35,Very High
+Whitehorse,Canada,?,,54.97,Moderate,79.17,High,8.79,Low,?,,?,,14.00,Very Low,12.96,Very Low,?,
+Winnipeg,Canada,102.23,High,42.14,Moderate,68.96,High,24.67,Moderate,68.85,Moderate,3.41,Very Low,31.46,Low,36.73,Low,147.26,High
+Woodstock,Canada,?,,43.43,Moderate,66.67,High,55.89,Moderate,?,,5.07,Low,8.00,Very Low,53.45,Moderate,?,
+Yellowknife,Canada,74.65,Moderate,47.95,Moderate,88.74,Very High,-7.50,Low,98.84,Very High,4.95,Very Low,13.40,Very Low,28.45,Low,146.33,High
+George Town,Cayman Islands,54.90,Low,67.65,High,81.54,Very High,58.15,Moderate,33.90,Very Low,8.58,Moderate,25.00,Very Low,55.46,Moderate,146.34,High
+Concepcion,Chile,29.78,Very Low,50.50,Moderate,61.38,High,96.65,Very High,40.39,Low,16.82,Very High,32.67,Low,44.67,Moderate,126.96,Moderate
 La Serena,Chile,27.80,Very Low,72.43,High,61.85,High,?,,46.96,Low,15.00,High,39.50,Moderate,57.47,Moderate,?,
 Puerto Montt,Chile,?,,43.98,Moderate,36.11,Low,90.28,Very High,?,,21.25,Very High,20.00,Very Low,68.97,High,?,
+Santiago,Chile,31.39,Very Low,42.54,Moderate,66.23,High,90.21,Very High,45.70,Low,18.52,Very High,37.18,Moderate,70.00,High,102.05,Low
 Baoji,China,?,,88.24,Very High,63.89,High,?,,?,,?,,27.00,Low,89.66,Very High,?,
 Baotou,China,?,,97.90,Very High,100.00,Very High,?,,?,,11.88,Moderate,16.11,Very Low,54.60,Moderate,?,
+Beijing,China,52.97,Low,66.55,High,64.40,High,57.64,Moderate,46.11,Low,50.75,Very High,44.61,High,82.76,Very High,66.59,Very Low
+Changchun,China,?,,73.54,High,63.89,High,23.65,Moderate,?,,8.14,Moderate,15.00,Very Low,79.20,High,?,
 Changsha,China,41.30,Low,79.06,High,70.37,High,?,,50.39,Low,13.49,High,35.00,Moderate,59.78,Moderate,?,
+Chengdu,China,54.58,Low,76.80,High,65.45,High,91.18,Very High,43.09,Low,17.94,Very High,37.60,Moderate,72.97,High,127.10,Moderate
+Chongqing,China,54.97,Low,70.86,High,53.33,Moderate,91.60,Very High,39.26,Very Low,14.34,High,52.17,High,73.70,High,115.80,Low
+Dalian,China,53.41,Low,83.44,Very High,76.39,High,63.70,High,38.46,Very Low,16.62,Very High,30.00,Low,69.48,High,133.09,Moderate
 Fuzhou,China,42.28,Low,71.42,High,77.78,High,87.28,Very High,41.45,Low,35.05,Very High,32.50,Low,49.80,Moderate,124.19,Moderate
 Guizhou,China,44.15,Low,82.35,Very High,80.56,Very High,?,,47.66,Low,25.20,Very High,50.00,High,48.85,Moderate,?,
+Hefei,China,77.83,Moderate,87.65,Very High,80.56,Very High,80.35,Very High,41.53,Low,16.61,Very High,15.00,Very Low,79.21,High,152.89,High
 Jinan,China,51.59,Low,85.87,Very High,52.78,Moderate,66.62,High,35.70,Very Low,20.58,Very High,50.00,High,78.04,High,105.71,Low
+Nanjing,China,72.86,Moderate,87.17,Very High,75.35,High,80.60,Very High,42.10,Low,23.66,Very High,38.00,Moderate,73.70,High,133.73,Moderate
 Nanning,China,60.16,Moderate,77.70,High,36.11,Low,83.39,Very High,47.67,Low,19.07,Very High,26.50,Very Low,70.57,High,121.01,Moderate
+Shanghai,China,54.45,Low,65.43,High,61.64,High,83.64,Very High,53.67,Low,41.56,Very High,47.42,High,77.12,High,84.97,Very Low
+Shenyang,China,54.89,Low,77.82,High,77.78,High,35.46,Moderate,40.98,Low,22.28,Very High,20.75,Very Low,91.78,Very High,105.86,Low
+Shenzhen,China,68.98,Moderate,66.97,High,59.57,Moderate,81.80,Very High,51.12,Low,43.79,Very High,36.45,Moderate,62.39,High,103.45,Low
+Wuhan,China,50.06,Low,76.35,High,71.67,High,82.22,Very High,43.59,Low,19.22,Very High,37.33,Moderate,89.43,Very High,112.41,Low
+Xi'an,China,54.71,Low,83.15,Very High,68.52,High,73.90,High,38.31,Very Low,16.12,Very High,43.00,High,93.00,Very High,112.05,Low
+Xiamen,China,41.10,Low,75.95,High,74.07,High,84.71,Very High,44.05,Low,52.89,Very High,60.67,Very High,39.50,Low,98.32,Very Low
 Zhengzhou,China,59.15,Low,77.92,High,77.78,High,74.29,High,39.45,Very Low,14.36,High,65.00,Very High,98.35,Very High,102.12,Low
+Barranquilla,Colombia,28.16,Very Low,40.36,Moderate,62.24,High,54.07,Moderate,28.21,Very Low,12.25,High,38.00,Moderate,55.92,Moderate,103.01,Low
+Bogota,Colombia,26.02,Very Low,35.10,Low,64.59,High,97.12,Very High,27.87,Very Low,23.40,Very High,51.99,High,70.42,High,87.03,Very Low
+Bucaramanga,Colombia,30.80,Very Low,54.86,Moderate,68.95,High,97.37,Very High,23.47,Very Low,16.51,Very High,40.00,Moderate,56.46,Moderate,123.29,Moderate
+Cali,Colombia,32.36,Very Low,31.58,Low,66.81,High,93.20,Very High,25.01,Very Low,13.02,High,35.88,Moderate,40.20,Moderate,126.27,Moderate
+Cartagena,Colombia,29.30,Very Low,50.68,Moderate,51.85,Moderate,55.95,Moderate,29.50,Very Low,23.81,Very High,30.00,Low,58.97,Moderate,95.38,Very Low
+Medellin,Colombia,34.27,Very Low,47.97,Moderate,76.68,High,99.76,Very High,28.36,Very Low,13.34,High,39.18,Moderate,63.07,High,123.81,Moderate
 Santa Marta,Colombia,21.09,Very Low,55.94,Moderate,71.30,High,61.06,High,29.75,Very Low,22.63,Very High,8.00,Very Low,66.48,High,111.35,Low
+Kinshasa,Congo,14.93,Very Low,23.14,Low,18.06,Very Low,82.84,Very High,109.23,Very High,27.09,Very High,75.00,Very High,115.52,Very High,0.00,Very Low
+Samara,Costa Rica,34.83,Very Low,63.34,High,45.96,Moderate,41.31,Moderate,36.44,Very Low,10.88,Moderate,41.89,High,60.10,High,102.22,Low
+San Francisco,Costa Rica,130.21,Very High,42.35,Moderate,65.25,High,97.26,Very High,93.55,Very High,7.61,Low,51.23,High,49.24,Moderate,156.38,High
+San Jose,Costa Rica,156.42,Very High,54.42,Moderate,73.38,High,95.53,Very High,74.25,High,6.37,Low,38.26,Moderate,45.58,Moderate,187.66,Very High
+San Juan,Costa Rica,67.23,Moderate,30.98,Low,63.45,High,71.25,High,69.68,Moderate,5.54,Low,37.46,Moderate,50.83,Moderate,126.38,Moderate
+Split,Croatia,38.07,Very Low,64.60,High,61.97,High,96.26,Very High,53.63,Low,22.02,Very High,12.64,Very Low,35.61,Low,146.96,High
+Zagreb,Croatia,54.36,Low,78.52,High,64.89,High,82.19,Very High,49.90,Low,12.97,High,31.01,Low,32.49,Low,159.23,High
+Havana,Cuba,1.70,Very Low,69.79,High,51.71,Moderate,89.86,Very High,57.09,Low,48.82,Very High,47.50,High,57.74,Moderate,69.44,Very Low
+Willemstad,Curacao,31.00,Very Low,40.44,Moderate,50.35,Moderate,64.10,High,77.16,High,11.08,Moderate,17.50,Very Low,65.07,High,103.21,Low
 Ayia Napa,Cyprus,?,,39.16,Low,8.33,Very Low,94.95,Very High,?,,8.17,Moderate,0.00,Very Low,35.34,Low,?,
+Limassol,Cyprus,54.32,Low,67.37,High,49.69,Moderate,95.74,Very High,64.94,Moderate,8.12,Moderate,20.00,Very Low,53.43,Moderate,146.97,High
+Nicosia,Cyprus,59.26,Low,68.33,High,52.17,Moderate,86.01,Very High,63.42,Moderate,6.17,Low,25.74,Very Low,64.32,High,139.14,Moderate
+Brno,Czech Republic,64.50,Moderate,73.70,High,74.84,High,78.17,High,46.92,Low,14.71,High,26.13,Very Low,43.26,Moderate,157.34,High
+Pardubice,Czech Republic,60.49,Moderate,64.96,High,80.16,Very High,76.82,High,44.71,Low,8.92,Moderate,12.75,Very Low,49.57,Moderate,161.54,Very High
+Prague,Czech Republic,71.02,Moderate,75.77,High,74.69,High,80.67,Very High,49.42,Low,17.79,Very High,32.29,Low,34.42,Low,161.23,Very High
+Aalborg,Denmark,105.35,High,75.24,High,80.87,Very High,81.94,Very High,81.25,High,6.11,Low,27.11,Low,10.84,Very Low,204.40,Very High
+Arhus,Denmark,94.01,High,78.97,High,83.80,Very High,81.20,Very High,88.05,High,6.54,Low,28.88,Low,26.96,Low,189.91,Very High
+Copenhagen,Denmark,89.77,High,72.63,High,77.72,High,83.74,Very High,88.24,High,9.26,Moderate,28.56,Low,21.89,Low,184.27,Very High
+Esbjerg,Denmark,?,,65.25,High,66.67,High,80.25,Very High,?,,?,,13.50,Very Low,5.17,Very Low,?,
+Punta Cana,Dominican Republic,?,,55.60,Moderate,60.19,High,72.75,High,?,,8.92,Moderate,0.00,Very Low,76.96,High,?,
+Santo Domingo,Dominican Republic,22.26,Very Low,31.95,Low,51.42,Moderate,67.82,High,45.70,Low,14.45,High,38.00,Moderate,76.71,High,78.89,Very Low
+Cuenca,Ecuador,30.43,Very Low,60.13,High,82.21,Very High,98.36,Very High,34.28,Very Low,13.11,High,35.20,Moderate,43.91,Moderate,144.50,Moderate
+Guayaquil,Ecuador,31.12,Very Low,30.96,Low,52.16,Moderate,86.21,Very High,38.90,Very Low,13.92,High,34.86,Low,69.14,High,96.20,Very Low
+Loja,Ecuador,?,,76.74,High,81.48,Very High,?,,?,,?,,20.00,Very Low,17.24,Very Low,?,
+Quito,Ecuador,28.85,Very Low,39.11,Low,67.59,High,98.97,Very High,41.12,Low,13.18,High,42.66,High,66.10,High,108.42,Low
+Santo Domingo,Ecuador,22.26,Very Low,31.95,Low,51.42,Moderate,67.82,High,45.70,Low,14.45,High,38.00,Moderate,76.71,High,78.89,Very Low
+Al Jizah,Egypt,?,,61.16,High,34.72,Low,88.26,Very High,?,,20.39,Very High,60.00,Very High,73.28,High,?,
 Aswan,Egypt,?,,69.49,High,38.89,Low,38.72,Moderate,?,,?,,9.00,Very Low,41.38,Moderate,?,
-Cairo,Egypt,24.14,Very Low,50.30,Moderate,44.98,Moderate,88.45,Very High,32.18,Very Low,11.38,Moderate,50.37,High,91.51,Very High,81.50,Very Low
+Cairo,Egypt,24.41,Very Low,50.30,Moderate,44.98,Moderate,88.45,Very High,32.18,Very Low,11.15,Moderate,50.37,High,91.51,Very High,81.83,Very Low
 Dahab,Egypt,?,,60.29,High,91.67,Very High,68.51,High,?,,?,,10.00,Very Low,23.56,Low,?,
 Hurghada,Egypt,17.48,Very Low,66.37,High,76.85,High,68.95,High,31.86,Very Low,9.04,Moderate,10.00,Very Low,58.56,Moderate,137.63,Moderate
 Luxor,Egypt,?,,56.25,Moderate,38.89,Low,47.50,Moderate,?,,13.97,High,60.00,Very High,37.93,Low,?,
 Sharm El Sheikh,Egypt,14.15,Very Low,70.56,High,68.89,High,68.51,High,31.54,Very Low,11.65,Moderate,17.00,Very Low,25.23,Low,151.21,High
+San Salvador,El Salvador,22.95,Very Low,28.13,Low,51.89,Moderate,86.60,Very High,44.30,Low,13.08,High,44.05,High,89.80,Very High,73.47,Very Low
+Tallinn,Estonia,66.16,Moderate,77.25,High,71.72,High,64.28,High,55.03,Low,9.33,Moderate,26.74,Very Low,22.54,Low,171.98,Very High
+Addis Ababa,Ethiopia,9.82,Very Low,51.59,Moderate,52.14,Moderate,96.82,Very High,50.45,Low,27.60,Very High,55.67,Very High,79.79,High,69.18,Very Low
 Bahir Dar,Ethiopia,?,,21.32,Low,27.78,Low,?,,?,,?,,40.00,Moderate,58.62,Moderate,?,
 Nadi,Fiji,?,,55.88,Moderate,40.28,Moderate,82.11,Very High,?,,?,,95.00,Very High,53.69,Moderate,?,
+Suva,Fiji,44.91,Low,46.08,Moderate,50.38,Moderate,71.89,High,38.72,Very Low,12.76,High,34.82,Low,51.81,Moderate,116.53,Low
+Helsinki,Finland,81.27,Moderate,74.23,High,77.20,High,62.79,High,76.68,High,13.53,High,29.65,Low,13.65,Very Low,176.32,Very High
 Joensuu,Finland,94.91,High,74.98,High,65.05,High,45.58,Moderate,69.64,Moderate,4.49,Very Low,35.00,Moderate,3.88,Very Low,185.13,Very High
+Oulu,Finland,101.03,High,63.26,High,74.11,High,46.38,Moderate,70.06,Moderate,5.92,Low,18.89,Very Low,15.81,Very Low,184.25,Very High
 Rovaniemi,Finland,?,,77.39,High,75.00,High,34.01,Moderate,?,,4.18,Very Low,15.00,Very Low,6.29,Very Low,?,
+Vaasa,Finland,90.52,High,78.50,High,63.49,High,56.23,Moderate,70.62,Moderate,4.94,Very Low,24.33,Very Low,10.06,Very Low,188.72,Very High
 Ajaccio,France,?,,79.12,High,43.06,Moderate,94.92,Very High,?,,8.16,Moderate,20.00,Very Low,33.33,Low,?,
+Antibes,France,?,,80.20,Very High,69.44,High,94.34,Very High,?,,8.61,Moderate,42.00,High,39.53,Low,?,
+Bordeaux,France,80.41,Moderate,52.94,Moderate,83.29,Very High,93.30,Very High,77.57,High,9.92,Moderate,31.56,Low,39.27,Low,163.41,Very High
+Brest,France,?,,46.10,Moderate,87.40,Very High,93.14,Very High,?,,?,,35.00,Moderate,28.07,Low,?,
 Ivry-sur-Seine,France,?,,25.00,Low,72.22,High,?,,?,,16.20,Very High,32.00,Low,43.10,Moderate,?,
 La Rochelle,France,?,,76.41,High,61.11,High,?,,?,,?,,75.00,Very High,10.00,Very Low,?,
 Limoges,France,?,,68.68,High,62.73,High,?,,?,,2.29,Very Low,15.00,Very Low,1.72,Very Low,?,
+Lyon,France,83.05,Moderate,51.20,Moderate,78.28,High,88.51,Very High,77.57,High,8.78,Moderate,35.92,Moderate,50.96,Moderate,151.16,High
+Marseille,France,91.28,High,38.45,Low,84.53,Very High,92.70,Very High,74.11,High,6.05,Low,32.77,Low,73.84,High,141.38,Moderate
 Metz,France,?,,52.52,Moderate,80.56,Very High,83.95,Very High,?,,6.08,Low,32.50,Low,37.74,Low,?,
+Montpellier,France,?,,46.91,Moderate,86.11,Very High,92.22,Very High,?,,6.17,Low,32.92,Low,42.63,Moderate,?,
+Mulhouse,France,76.50,Moderate,43.73,Moderate,69.44,High,85.28,Very High,81.12,High,4.44,Very Low,30.00,Low,18.97,Very Low,168.47,Very High
+Nancy,France,?,,70.74,High,73.61,High,84.15,Very High,?,,6.16,Low,33.33,Low,55.28,Moderate,?,
+Nantes,France,92.90,High,41.19,Moderate,75.86,High,91.59,Very High,71.77,Moderate,8.07,Moderate,25.93,Very Low,29.62,Low,170.68,Very High
+Nice,France,65.79,Moderate,44.40,Moderate,87.20,Very High,95.11,Very High,84.11,High,13.08,High,40.19,Moderate,47.32,Moderate,141.96,Moderate
+Paris,France,78.90,Moderate,45.17,Moderate,80.16,Very High,88.39,Very High,83.98,High,20.08,Very High,42.36,High,63.26,High,123.84,Moderate
+Pau,France,?,,62.17,High,84.72,Very High,?,,?,,4.37,Very Low,9.00,Very Low,43.10,Moderate,?,
+Rennes,France,82.08,Moderate,47.89,Moderate,91.11,Very High,90.40,Very High,71.01,Moderate,8.08,Moderate,23.25,Very Low,39.97,Low,169.90,Very High
 Rueil-Malmaison,France,?,,72.79,High,83.33,Very High,?,,?,,?,,42.50,High,39.08,Low,?,
+Strasbourg,France,93.88,High,66.67,High,89.19,Very High,84.71,Very High,75.41,High,7.54,Low,23.20,Very Low,38.93,Low,182.16,Very High
+Toulouse,France,90.40,High,52.56,Moderate,84.81,Very High,91.87,Very High,75.76,High,7.81,Low,30.83,Low,40.91,Moderate,168.91,Very High
 Versailles,France,108.38,High,88.24,Very High,88.89,Very High,82.07,Very High,73.99,High,10.66,Moderate,19.00,Very Low,17.24,Very Low,211.33,Very High
+Papeete,French Polynesia,36.78,Very Low,75.37,High,94.44,Very High,83.50,Very High,94.28,Very High,23.26,Very High,30.00,Low,36.64,Low,145.90,High
 Libreville,Gabon,18.25,Very Low,44.63,Moderate,33.89,Low,68.21,High,61.39,Moderate,114.39,Very High,16.35,Very Low,80.32,Very High,0.00,Very Low
+Tbilisi,Georgia,30.78,Very Low,75.03,High,53.34,Moderate,84.20,Very High,29.76,Very Low,12.99,High,37.57,Moderate,74.24,High,114.99,Low
 Bamberg,Germany,108.67,High,73.88,High,61.11,High,78.33,High,59.21,Low,6.47,Low,30.75,Low,9.77,Very Low,196.68,Very High
+Berlin,Germany,107.97,High,58.22,Moderate,69.44,High,83.35,Very High,68.55,Moderate,8.96,Moderate,33.93,Low,38.68,Low,169.29,Very High
+Cologne,Germany,87.50,High,56.44,Moderate,73.10,High,84.85,Very High,68.96,Moderate,10.19,Moderate,36.39,Moderate,40.74,Moderate,158.30,High
 Dessau,Germany,?,,51.47,Moderate,45.83,Moderate,?,,?,,2.87,Very Low,45.00,High,30.34,Low,?,
+Dusseldorf,Germany,105.12,High,68.87,High,73.04,High,86.37,Very High,66.88,Moderate,10.69,Moderate,30.30,Low,32.66,Low,180.19,Very High
+Frankfurt,Germany,110.94,Very High,56.01,Moderate,74.85,High,84.72,Very High,70.93,Moderate,11.31,Moderate,25.01,Very Low,36.74,Low,175.16,Very High
+Hamburg,Germany,99.31,High,56.99,Moderate,75.18,High,82.75,Very High,69.27,Moderate,11.18,Moderate,34.69,Low,30.74,Low,169.94,Very High
 Jena,Germany,94.71,High,85.03,Very High,63.89,High,78.77,High,68.90,Moderate,7.66,Low,25.00,Very Low,30.00,Low,185.16,Very High
 Lübeck,Germany,82.84,Moderate,62.66,High,68.06,High,83.53,Very High,67.46,Moderate,8.32,Moderate,55.00,Very High,11.49,Very Low,169.30,Very High
+Munich,Germany,98.96,High,82.44,Very High,77.79,High,75.98,High,75.65,High,15.72,High,32.92,Low,24.96,Low,180.86,Very High
 Passau,Germany,?,,71.71,High,62.50,High,?,,?,,7.25,Low,23.00,Very Low,16.03,Very Low,?,
+Stuttgart,Germany,108.20,High,70.96,High,72.11,High,81.07,Very High,67.08,Moderate,10.01,Moderate,34.12,Low,45.58,Moderate,170.46,Very High
 Wolfsburg,Germany,137.35,Very High,70.77,High,75.00,High,82.99,Very High,71.50,Moderate,4.55,Very Low,50.00,High,3.23,Very Low,209.13,Very High
+Accra,Ghana,20.03,Very Low,53.57,Moderate,61.36,High,67.03,High,39.99,Very Low,68.32,Very High,49.00,High,93.65,Very High,22.42,Very Low
 Kumasi,Ghana,?,,62.72,High,83.33,Very High,74.70,High,?,,?,,3.00,Very Low,63.10,High,?,
+Gibraltar,Gibraltar,88.90,High,83.62,Very High,67.22,High,66.59,High,67.19,Moderate,10.56,Moderate,20.00,Very Low,70.47,High,152.20,High
+Athens,Greece,38.85,Very Low,44.25,Moderate,56.73,Moderate,95.18,Very High,57.46,Low,12.05,High,38.11,Moderate,57.33,Moderate,117.02,Low
+Chania,Greece,40.08,Low,80.08,Very High,58.33,Moderate,96.95,Very High,56.15,Low,9.67,Moderate,32.43,Low,25.28,Low,163.37,Very High
+Corfu,Greece,34.83,Very Low,80.75,Very High,42.94,Moderate,94.54,Very High,60.69,Moderate,9.84,Moderate,20.00,Very Low,31.66,Low,155.98,High
 Crete,Greece,?,,81.07,Very High,87.78,Very High,96.99,Very High,?,,?,,30.00,Low,40.47,Moderate,?,
+Heraklion,Greece,36.94,Very Low,75.88,High,74.18,High,97.92,Very High,57.17,Low,13.00,High,20.00,Very Low,36.15,Low,162.21,Very High
 Kos,Greece,?,,84.09,Very High,65.74,High,97.18,Very High,?,,9.46,Moderate,5.00,Very Low,9.20,Very Low,?,
 Mytilene,Greece,39.73,Very Low,80.88,Very High,55.56,Moderate,95.44,Very High,58.79,Low,8.28,Moderate,29.33,Low,18.97,Very Low,168.90,Very High
 Naousa,Greece,39.80,Very Low,74.51,High,88.89,Very High,?,,62.23,Moderate,33.24,Very High,64.00,Very High,1.72,Very Low,?,
 Rethymno,Greece,?,,80.57,Very High,63.47,High,97.38,Very High,?,,14.47,High,3.00,Very Low,22.47,Low,?,
+Rhodes,Greece,?,,74.46,High,37.04,Low,96.93,Very High,?,,13.29,High,15.60,Very Low,26.35,Low,?,
 Samos,Greece,?,,92.65,Very High,43.06,Moderate,?,,?,,9.23,Moderate,22.00,Very Low,10.34,Very Low,?,
+Thessaloniki,Greece,37.23,Very Low,46.37,Moderate,55.79,Moderate,88.39,Very High,58.45,Low,11.24,Moderate,29.19,Low,64.10,High,115.45,Low
+Nuuk,Greenland,?,,73.86,High,79.17,High,24.01,Moderate,?,,10.78,Moderate,18.75,Very Low,59.96,Moderate,?,
+Grenada,Grenada,?,,84.95,Very High,83.33,Very High,65.33,High,?,,9.79,Moderate,40.00,Moderate,35.34,Low,?,
 Hagatna,Guam,?,,29.51,Low,50.00,Moderate,?,,?,,?,,45.00,High,23.28,Low,?,
+Guatemala City,Guatemala,25.24,Very Low,37.26,Low,61.90,High,99.89,Very High,44.48,Low,14.26,High,48.19,High,72.38,High,95.72,Very Low
 Saint Peter Port,Guernsey,62.09,Moderate,73.74,High,56.94,Moderate,94.61,Very High,87.90,High,10.07,Moderate,10.00,Very Low,27.59,Low,173.77,Very High
+St Peter Port,Guernsey,53.70,Low,86.58,Very High,52.78,Moderate,94.99,Very High,124.53,Very High,9.19,Moderate,20.00,Very Low,0.00,Very Low,185.91,Very High
+Georgetown,Guyana,18.10,Very Low,29.24,Low,35.71,Low,65.81,High,48.14,Low,36.75,Very High,52.00,High,66.84,High,45.96,Very Low
+La Paz,Honduras,37.06,Very Low,46.18,Moderate,45.83,Moderate,55.46,Moderate,37.54,Very Low,9.83,Moderate,59.20,Very High,81.66,Very High,77.11,Very Low
+Tegucigalpa,Honduras,31.13,Very Low,26.05,Low,45.85,Moderate,98.65,Very High,39.85,Very Low,9.69,Moderate,22.43,Very Low,84.92,Very High,95.19,Very Low
+Hong Kong,Hong Kong,66.94,Moderate,78.01,High,66.26,High,83.64,Very High,80.16,High,46.69,Very High,42.56,High,67.74,High,99.02,Very Low
+Budapest,Hungary,52.76,Low,64.59,High,51.24,Moderate,78.41,High,43.83,Low,14.73,High,39.00,Moderate,54.37,Moderate,125.17,Moderate
 Vac,Hungary,?,,78.92,High,50.00,Moderate,77.43,High,?,,10.91,Moderate,13.50,Very Low,5.17,Very Low,?,
 Érd,Hungary,61.03,Moderate,70.10,High,44.44,Moderate,77.71,High,39.25,Very Low,8.97,Moderate,22.50,Very Low,47.13,Moderate,147.58,High
+Akureyri,Iceland,103.79,High,77.69,High,65.74,High,58.34,Moderate,84.59,High,4.42,Very Low,18.00,Very Low,30.23,Low,184.08,Very High
+Reykjavik,Iceland,73.80,Moderate,78.01,High,66.89,High,68.81,High,96.62,Very High,7.24,Low,19.96,Very Low,15.01,Very Low,181.32,Very High
 Agartala,India,49.94,Low,75.49,High,50.56,Moderate,69.93,High,24.00,Very Low,5.27,Low,19.50,Very Low,50.76,Moderate,150.00,High
+Ahmedabad,India,37.34,Very Low,67.35,High,66.43,High,49.27,Moderate,25.97,Very Low,11.10,Moderate,38.43,Moderate,73.19,High,109.91,Low
 Ajmer,India,?,,61.76,High,48.61,Moderate,?,,?,,9.17,Moderate,7.50,Very Low,63.22,High,?,
 Allahabad,India,62.83,Moderate,61.99,High,18.98,Very Low,55.93,Moderate,21.98,Very Low,7.03,Low,65.00,Very High,90.25,Very High,80.46,Very Low
+Amravati,India,?,,46.06,Moderate,79.17,High,59.20,Moderate,?,,18.96,Very High,25.00,Very Low,68.61,High,?,
+Amritsar,India,39.05,Very Low,62.70,High,70.37,High,69.46,High,24.91,Very Low,22.96,Very High,33.29,Low,86.04,Very High,98.81,Very Low
+Bangalore,India,99.48,High,45.34,Moderate,66.13,High,89.39,Very High,28.01,Very Low,5.90,Low,52.82,High,83.18,Very High,128.14,Moderate
+Belgaum,India,30.09,Very Low,46.27,Moderate,36.57,Low,83.09,Very High,20.22,Very Low,14.95,High,12.25,Very Low,73.10,High,105.67,Low
 Bhilai,India,49.30,Low,72.17,High,75.13,High,?,,20.61,Very Low,5.52,Low,8.00,Very Low,65.20,High,?,
+Bhopal,India,41.10,Low,53.75,Moderate,53.35,Moderate,66.57,High,22.99,Very Low,7.69,Low,33.12,Low,58.97,Moderate,120.98,Moderate
+Bhubaneswar,India,51.51,Low,66.83,High,70.97,High,50.25,Moderate,23.04,Very Low,8.57,Moderate,29.08,Low,49.20,Moderate,140.94,Moderate
 Bikaner,India,33.50,Very Low,56.86,Moderate,94.44,Very High,?,,23.45,Very Low,13.72,High,35.00,Moderate,49.32,Moderate,?,
+Chennai,India,45.66,Low,59.72,Moderate,70.26,High,53.22,Moderate,25.92,Very Low,15.53,High,47.53,High,75.33,High,101.86,Low
+Coimbatore,India,43.03,Low,60.04,High,70.76,High,78.10,High,23.22,Very Low,10.00,Moderate,47.50,High,63.10,High,123.43,Moderate
+Delhi,India,56.31,Low,40.27,Moderate,67.18,High,58.90,Moderate,27.73,Very Low,17.27,Very High,57.37,Very High,90.52,Very High,80.09,Very Low
 Durgapur,India,55.72,Low,86.76,Very High,65.28,High,?,,21.95,Very Low,3.69,Very Low,12.00,Very Low,77.59,High,?,
 Eluru,India,?,,73.53,High,83.33,Very High,53.76,Moderate,?,,47.92,Very High,15.00,Very Low,58.76,Moderate,?,
+Ernakulam,India,46.56,Low,76.96,High,74.49,High,58.87,Moderate,24.15,Very Low,11.74,Moderate,40.75,Moderate,79.53,High,118.97,Low
+Ghaziabad,India,54.39,Low,39.19,Low,56.81,Moderate,65.98,High,27.46,Very Low,6.61,Low,56.67,Very High,93.30,Very High,86.18,Very Low
+Goa,India,36.00,Very Low,55.97,Moderate,61.94,High,68.49,High,27.88,Very Low,10.12,Moderate,46.14,High,48.47,Moderate,121.70,Moderate
 Gorakhpur,India,?,,58.29,Moderate,47.22,Moderate,?,,?,,20.00,Very High,62.50,Very High,69.18,High,?,
+Gurgaon,India,72.08,Moderate,44.32,Moderate,65.42,High,59.87,Moderate,34.04,Very Low,7.48,Low,38.11,Moderate,91.57,Very High,106.13,Low
+Guwahati,India,37.38,Very Low,55.41,Moderate,64.79,High,71.86,High,25.84,Very Low,11.02,Moderate,30.00,Low,76.61,High,112.85,Low
 Gwalior,India,46.31,Low,52.63,Moderate,61.81,High,53.87,Moderate,21.23,Very Low,7.19,Low,37.00,Moderate,83.01,Very High,104.36,Low
+Hubli,India,47.80,Low,39.20,Low,22.78,Low,83.04,Very High,21.58,Very Low,6.41,Low,41.67,High,81.74,Very High,91.62,Very Low
+Hyderabad,India,52.02,Low,56.36,Moderate,65.33,High,73.54,High,26.32,Very Low,8.70,Moderate,42.80,High,76.29,High,116.04,Low
 Imphal,India,35.88,Very Low,80.15,Very High,68.98,High,?,,23.46,Very Low,16.69,Very High,25.00,Very Low,62.01,High,?,
+Indore,India,39.32,Very Low,51.18,Moderate,51.80,Moderate,74.26,High,24.16,Very Low,11.34,Moderate,35.95,Moderate,61.51,High,114.06,Low
+Jabalpur,India,51.70,Low,56.41,Moderate,55.56,Moderate,68.72,High,23.50,Very Low,6.49,Low,22.50,Very Low,65.42,High,130.31,Moderate
+Jalandhar,India,26.79,Very Low,45.17,Moderate,64.68,High,66.12,High,24.60,Very Low,11.52,Moderate,44.29,High,80.51,Very High,91.42,Very Low
 Jalgaon,India,?,,72.79,High,63.89,High,?,,?,,6.80,Low,110.00,Very High,74.82,High,?,
+Jammu,India,58.53,Low,60.09,High,45.83,Moderate,73.61,High,21.81,Very Low,6.45,Low,31.67,Low,66.01,High,127.85,Moderate
+Jodhpur,India,41.65,Low,70.49,High,70.09,High,52.16,Moderate,25.45,Very Low,8.76,Moderate,10.00,Very Low,75.45,High,130.73,Moderate
 Kakinada,India,?,,81.39,Very High,66.67,High,?,,?,,7.51,Low,15.00,Very Low,42.67,Moderate,?,
+Kanpur,India,38.88,Very Low,52.39,Moderate,65.20,High,69.24,High,20.62,Very Low,19.90,Very High,31.71,Low,91.03,Very High,92.40,Very Low
+Kolhapur,India,?,,80.53,Very High,95.83,Very High,?,,?,,11.46,Moderate,33.33,Low,56.02,Moderate,?,
+Kolkata,India,40.59,Low,53.09,Moderate,57.43,Moderate,60.90,High,25.64,Very Low,11.76,Moderate,60.36,Very High,78.33,High,89.33,Very Low
 Kota,India,55.22,Low,68.72,High,59.26,Moderate,54.26,Moderate,22.35,Very Low,5.34,Low,41.00,High,69.55,High,123.80,Moderate
 Kurnool,India,33.84,Very Low,63.68,High,71.30,High,?,,21.42,Very Low,10.04,Moderate,27.00,Low,67.11,High,?,
+Lucknow (Lakhnau),India,50.01,Low,50.48,Moderate,62.09,High,59.46,Moderate,25.07,Very Low,8.40,Moderate,45.93,High,78.11,High,103.95,Low
+Ludhiana,India,35.50,Very Low,47.08,Moderate,67.55,High,?,,25.00,Very Low,11.47,Moderate,21.09,Very Low,86.11,Very High,?,
 Malappuram,India,?,,62.99,High,94.44,Very High,?,,?,,?,,0.00,Very Low,109.48,Very High,?,
+Mangalore,India,43.42,Low,74.69,High,78.16,High,66.65,High,23.58,Very Low,8.49,Moderate,31.84,Low,45.81,Moderate,150.88,High
+Mumbai,India,45.83,Low,55.32,Moderate,65.03,High,71.48,High,29.17,Very Low,37.00,Very High,54.65,High,83.58,Very High,72.87,Very Low
+Nagpur,India,42.66,Low,62.19,High,65.45,High,55.82,Moderate,24.16,Very Low,8.74,Moderate,28.72,Low,61.38,High,126.51,Moderate
 Nashik,India,41.87,Low,77.04,High,88.89,Very High,?,,22.43,Very Low,10.43,Moderate,23.80,Very Low,43.63,Moderate,?,
+Noida,India,56.74,Low,42.03,Moderate,66.78,High,58.90,Moderate,29.08,Very Low,6.85,Low,44.96,High,92.43,Very High,96.19,Very Low
 Palakkad,India,38.99,Very Low,56.62,Moderate,50.00,Moderate,79.79,High,21.87,Very Low,9.33,Moderate,52.00,High,34.55,Low,129.95,Moderate
+Panaji,India,50.63,Low,62.48,High,76.85,High,?,,27.43,Very Low,9.03,Moderate,45.00,High,75.86,High,?,
+Patna,India,37.17,Very Low,50.45,Moderate,54.01,Moderate,61.71,High,23.70,Very Low,11.65,Moderate,27.00,Low,89.20,Very High,95.29,Very Low
+Pune,India,55.38,Low,58.13,Moderate,66.21,High,74.32,High,27.24,Very Low,11.78,Moderate,43.78,High,71.07,High,118.71,Low
+Raipur,India,63.28,Moderate,70.12,High,55.83,Moderate,61.82,High,24.48,Very Low,6.91,Low,31.83,Low,87.36,Very High,119.80,Low
+Ranchi,India,41.02,Low,51.01,Moderate,44.44,Moderate,77.75,High,26.69,Very Low,8.28,Moderate,38.43,Moderate,62.31,High,113.91,Low
 Shillong,India,?,,50.70,Moderate,66.67,High,71.13,High,?,,?,,38.75,Moderate,49.56,Moderate,?,
 Shimla,India,?,,66.42,High,71.67,High,?,,?,,21.96,Very High,95.00,Very High,48.98,Moderate,?,
 Silchar,India,?,,61.76,High,47.22,Moderate,?,,?,,?,,50.00,High,65.52,High,?,
+Siliguri,India,57.66,Low,59.41,Moderate,69.44,High,71.47,High,25.33,Very Low,5.20,Low,15.00,Very Low,70.24,High,142.30,Moderate
+Srinagar,India,50.53,Low,57.20,Moderate,70.11,High,85.53,Very High,23.03,Very Low,36.78,Very High,40.00,Moderate,36.86,Low,121.71,Moderate
+Thiruvananthapuram,India,74.76,Moderate,60.17,High,60.81,High,64.78,High,20.70,Very Low,5.66,Low,42.38,High,56.82,Moderate,139.10,Moderate
 Udupi,India,39.69,Very Low,30.88,Low,91.67,Very High,67.19,High,23.56,Very Low,8.37,Moderate,15.00,Very Low,48.28,Moderate,139.97,Moderate
+Varanasi,India,51.22,Low,65.04,High,72.62,High,53.92,Moderate,22.96,Very Low,8.59,Moderate,98.00,Very High,88.45,Very High,81.18,Very Low
 Vasai,India,53.36,Low,60.29,High,47.22,Moderate,?,,25.73,Very Low,13.97,High,20.00,Very Low,31.90,Low,?,
+Visakhapatnam,India,42.80,Low,62.57,High,68.67,High,?,,23.30,Very Low,7.75,Low,35.39,Moderate,65.98,High,?,
+Bali,Indonesia,14.53,Very Low,51.36,Moderate,62.16,High,64.28,High,43.08,Low,15.26,High,26.62,Very Low,76.09,High,94.18,Very Low
 Balikpapan,Indonesia,?,,74.12,High,58.33,Moderate,59.98,Moderate,?,,?,,18.50,Very Low,35.06,Low,?,
 Banda Aceh,Indonesia,?,,63.75,High,51.39,Moderate,?,,?,,?,,17.00,Very Low,25.86,Low,?,
+Batam,Indonesia,19.13,Very Low,50.53,Moderate,47.78,Moderate,64.23,High,36.43,Very Low,19.60,Very High,17.80,Very Low,60.38,High,101.04,Low
+Denpasar,Indonesia,15.01,Very Low,71.28,High,61.85,High,64.28,High,35.52,Very Low,18.81,Very High,23.89,Very Low,71.74,High,105.68,Low
 Indonesia,Indonesia,?,,34.03,Low,36.11,Low,57.66,Moderate,?,,?,,25.00,Very Low,31.32,Low,?,
+Jakarta,Indonesia,25.92,Very Low,46.28,Moderate,56.76,Moderate,63.76,High,41.14,Low,21.81,Very High,52.88,High,84.42,Very High,68.82,Very Low
 Makassar,Indonesia,23.34,Very Low,50.14,Moderate,64.81,High,74.83,High,33.80,Very Low,16.09,Very High,43.33,High,57.59,Moderate,105.74,Low
+Malang,Indonesia,23.64,Very Low,71.16,High,65.08,High,66.98,High,28.32,Very Low,9.84,Moderate,30.50,Low,30.39,Low,145.21,High
+Medan,Indonesia,27.84,Very Low,47.70,Moderate,60.56,High,60.65,High,30.57,Very Low,24.48,Very High,30.05,Low,74.25,High,87.36,Very Low
 Padang,Indonesia,?,,84.31,Very High,30.56,Low,?,,?,,?,,27.50,Low,33.62,Low,?,
 Pekanbaru,Indonesia,?,,66.58,High,77.78,High,60.24,High,?,,?,,20.00,Very Low,29.77,Low,?,
+Semarang,Indonesia,16.90,Very Low,61.09,High,58.33,Moderate,66.53,High,34.50,Very Low,22.98,Very High,27.40,Low,49.90,Moderate,109.41,Low
+Surabaya,Indonesia,23.23,Very Low,66.24,High,69.29,High,55.68,Moderate,34.60,Very Low,26.41,Very High,36.79,Moderate,55.29,Moderate,103.57,Low
+Yogyakarta,Indonesia,12.62,Very Low,59.91,Moderate,71.92,High,66.55,High,30.21,Very Low,25.54,Very High,29.00,Low,61.24,High,102.07,Low
 Kerman,Iran,15.06,Very Low,61.89,High,61.11,High,51.90,Moderate,49.90,Low,57.41,Very High,15.00,Very Low,46.84,Moderate,77.59,Very Low
+Mashhad,Iran,25.48,Very Low,52.62,Moderate,55.32,Moderate,70.30,High,32.30,Very Low,22.02,Very High,34.75,Low,69.96,High,92.80,Very Low
 Rasht,Iran,?,,69.32,High,69.35,High,92.26,Very High,?,,24.92,Very High,52.50,High,50.56,Moderate,?,
+Shiraz,Iran,18.99,Very Low,51.08,Moderate,66.19,High,57.58,Moderate,41.91,Low,19.68,Very High,29.17,Low,51.68,Moderate,105.89,Low
+Tabriz,Iran,23.22,Very Low,66.42,High,40.87,Moderate,67.58,High,80.37,High,35.31,Very High,31.46,Low,67.24,High,77.47,Very Low
+Tehran,Iran,14.11,Very Low,45.11,Moderate,52.69,Moderate,70.99,High,32.02,Very Low,45.15,Very High,53.06,High,81.34,Very High,43.83,Very Low
 Ad Diwaniyah,Iraq,?,,26.47,Low,100.00,Very High,60.51,High,?,,6.51,Low,40.00,Moderate,63.22,High,?,
 An Najaf,Iraq,?,,49.75,Moderate,75.00,High,?,,?,,11.23,Moderate,28.00,Low,0.00,Very Low,?,
+As Sulaymaniyah,Iraq,37.66,Very Low,76.14,High,51.22,Moderate,?,,37.67,Very Low,7.52,Low,22.50,Very Low,46.73,Moderate,?,
+Baghdad,Iraq,37.94,Very Low,37.76,Low,33.12,Low,36.50,Moderate,35.22,Very Low,12.38,High,57.17,Very High,91.34,Very High,54.09,Very Low
 Karbala,Iraq,?,,52.94,Moderate,0.00,Very Low,43.24,Moderate,?,,9.68,Moderate,12.50,Very Low,102.59,Very High,?,
 Kirkuk,Iraq,?,,72.06,High,66.67,High,?,,?,,?,,10.00,Very Low,75.00,High,?,
+Cork,Ireland,83.49,Moderate,64.49,High,58.04,Moderate,89.78,Very High,75.63,High,5.59,Low,34.57,Low,26.37,Low,170.76,Very High
+Dublin,Ireland,80.46,Moderate,48.29,Moderate,51.84,Moderate,85.89,Very High,78.51,High,8.35,Moderate,40.57,Moderate,40.70,Moderate,142.07,Moderate
 Malahide,Ireland,?,,51.11,Moderate,88.89,Very High,?,,?,,?,,15.00,Very Low,27.59,Low,?,
+Douglas,Isle Of Man,138.71,Very High,83.42,Very High,72.81,High,91.32,Very High,72.79,High,4.41,Very Low,5.00,Very Low,16.19,Very Low,231.77,Very High
+Haifa,Israel,78.43,Moderate,72.66,High,74.27,High,93.57,Very High,86.64,High,8.32,Moderate,29.70,Low,74.79,High,146.91,High
+Tel Aviv-Yafo,Israel,69.31,Moderate,73.84,High,74.67,High,93.88,Very High,94.06,Very High,20.37,Very High,36.94,Moderate,46.98,Moderate,146.24,High
 Alba Adriatica,Italy,?,,31.99,Low,36.11,Low,?,,?,,?,,0.00,Very Low,53.45,Moderate,?,
+Anzio (Rome),Italy,?,,68.87,High,81.48,Very High,94.35,Very High,?,,5.79,Low,100.00,Very High,60.34,High,?,
+Aosta,Italy,?,,77.94,High,94.44,Very High,?,,?,,6.38,Low,32.00,Low,28.74,Low,?,
+Bari,Italy,67.41,Moderate,48.63,Moderate,51.08,Moderate,95.02,Very High,61.15,Moderate,7.03,Low,17.43,Very Low,50.03,Moderate,148.17,High
+Barletta,Italy,59.48,Low,50.29,Moderate,69.44,High,?,,53.77,Low,8.03,Moderate,58.50,Very High,40.46,Moderate,?,
+Bologna,Italy,62.43,Moderate,54.39,Moderate,79.41,High,88.12,Very High,68.43,Moderate,10.15,Moderate,32.66,Low,56.28,Moderate,142.46,Moderate
+Cagliari,Italy,57.89,Low,62.97,High,69.46,High,95.89,Very High,65.22,Moderate,7.26,Low,30.40,Low,34.81,Low,162.20,Very High
+Catania,Italy,57.11,Low,38.98,Low,59.39,Moderate,93.96,Very High,56.86,Low,7.55,Low,40.31,Moderate,71.21,High,116.55,Low
+Chieti,Italy,?,,70.59,High,86.11,Very High,90.36,Very High,?,,3.88,Very Low,13.00,Very Low,35.29,Low,?,
+Como,Italy,56.17,Low,70.78,High,62.59,High,84.60,Very High,78.25,High,9.63,Moderate,30.00,Low,50.52,Moderate,144.96,Moderate
+Genoa,Italy,51.70,Low,58.24,Moderate,71.72,High,95.00,Very High,72.14,High,8.03,Moderate,35.04,Moderate,53.91,Moderate,141.45,Moderate
+Lecce,Italy,58.73,Low,67.07,High,75.56,High,93.52,Very High,59.54,Low,5.89,Low,19.33,Very Low,42.78,Moderate,168.39,Very High
 Matera,Italy,?,,77.09,High,97.22,Very High,91.89,Very High,?,,7.64,Low,30.00,Low,0.00,Very Low,?,
 Messina,Italy,?,,62.87,High,22.22,Low,97.52,Very High,?,,7.48,Low,60.00,Very High,47.41,Moderate,?,
 Mestre,Italy,?,,38.24,Low,62.04,High,?,,?,,4.12,Very Low,23.00,Very Low,70.69,High,?,
+Milan,Italy,55.41,Low,55.94,Moderate,72.00,High,88.12,Very High,73.25,High,16.12,Very High,36.50,Moderate,67.43,High,121.66,Moderate
+Olbia,Italy,?,,52.94,Moderate,27.78,Low,94.59,Very High,?,,7.11,Low,5.00,Very Low,33.62,Low,?,
+Palermo,Italy,59.35,Low,53.02,Moderate,61.71,High,97.63,Very High,56.94,Low,6.59,Low,33.50,Low,67.24,High,133.62,Moderate
+Pisa,Italy,51.70,Low,49.29,Moderate,69.14,High,92.61,Very High,68.27,Moderate,12.68,High,15.62,Very Low,53.09,Moderate,141.14,Moderate
 Ragusa,Italy,58.04,Low,60.05,High,45.37,Moderate,?,,55.89,Low,5.62,Low,49.33,High,68.97,High,?,
+Reggio Di Calabria,Italy,?,,56.67,Moderate,41.81,Moderate,96.88,Very High,?,,3.00,Very Low,25.50,Very Low,77.70,High,?,
+Rome,Italy,51.54,Low,47.20,Moderate,60.46,High,93.70,Very High,71.37,Moderate,16.70,Very High,41.47,High,66.40,High,110.80,Low
 Siracusa,Italy,?,,58.14,Moderate,52.78,Moderate,96.89,Very High,?,,3.61,Very Low,60.00,Very High,68.03,High,?,
+Trieste,Italy,61.34,Moderate,75.50,High,67.20,High,92.64,Very High,70.83,Moderate,7.22,Low,30.50,Low,42.10,Moderate,162.43,Very High
+Turin,Italy,67.12,Moderate,50.13,Moderate,67.04,High,85.66,Very High,64.95,Moderate,7.22,Low,29.52,Low,70.31,High,131.93,Moderate
+Abidjan,Ivory Coast,5.97,Very Low,42.96,Moderate,38.49,Low,65.12,High,47.84,Low,50.37,Very High,42.50,High,98.46,Very High,18.93,Very Low
+Cambridge,Jamaica,92.68,High,71.06,High,74.47,High,91.37,Very High,72.56,High,8.73,Moderate,33.56,Low,32.18,Low,178.62,Very High
 Kingston,Jamaica,25.23,Very Low,29.67,Low,51.10,Moderate,71.58,High,50.61,Low,11.98,Moderate,55.38,Very High,72.11,High,76.41,Very Low
 Negril,Jamaica,?,,41.18,Moderate,30.56,Low,69.01,High,?,,196.87,Very High,23.00,Very Low,43.10,Moderate,?,
 Ocho Rios,Jamaica,?,,67.28,High,37.50,Low,?,,?,,?,,20.00,Very Low,57.16,Moderate,?,
 Portmore,Jamaica,?,,28.41,Low,100.00,Very High,80.74,Very High,?,,12.70,High,68.50,Very High,70.99,High,?,
+Richmond,Jamaica,135.36,Very High,54.11,Moderate,73.86,High,81.27,Very High,67.68,Moderate,4.01,Very Low,21.96,Very Low,31.14,Low,195.31,Very High
+Fukuoka,Japan,68.09,Moderate,82.01,Very High,80.00,Very High,86.35,Very High,87.83,High,10.89,Moderate,44.50,High,41.24,Moderate,159.61,High
 Hiroshima,Japan,?,,68.64,High,91.67,Very High,87.10,Very High,?,,?,,45.00,High,25.98,Low,?,
 Kanazawa,Japan,?,,97.06,Very High,77.78,High,85.29,Very High,?,,7.35,Low,30.00,Low,1.72,Very Low,?,
+Kobe,Japan,?,,86.22,Very High,86.67,Very High,87.20,Very High,?,,7.40,Low,48.00,High,26.61,Low,?,
+Kyoto,Japan,73.41,Moderate,87.86,Very High,83.33,Very High,84.41,Very High,76.11,High,13.05,High,33.33,Low,38.15,Low,172.00,Very High
+Nagoya,Japan,52.57,Low,89.57,Very High,83.60,Very High,86.22,Very High,82.67,High,7.25,Low,14.00,Very Low,31.53,Low,184.45,Very High
+Okinawa,Japan,89.40,High,78.61,High,87.50,Very High,80.64,Very High,74.46,High,8.77,Moderate,18.33,Very Low,24.46,Low,195.25,Very High
+Osaka,Japan,82.09,Moderate,67.21,High,79.72,High,84.32,Very High,77.15,High,11.99,Moderate,27.33,Low,54.83,Moderate,156.51,High
 Otsu,Japan,?,,89.71,Very High,63.89,High,84.42,Very High,?,,?,,30.00,Low,0.00,Very Low,?,
+Sapporo,Japan,?,,93.01,Very High,100.00,Very High,72.32,High,?,,6.11,Low,51.00,High,22.84,Low,?,
+Sendai,Japan,?,,88.36,Very High,80.56,Very High,87.62,Very High,?,,?,,47.50,High,12.59,Very Low,?,
+Tokyo,Japan,89.22,High,76.30,High,80.09,Very High,85.26,Very High,86.97,High,13.15,High,42.19,High,42.31,Moderate,163.14,Very High
+Saint Helier,Jersey,80.53,Moderate,74.09,High,53.28,Moderate,94.34,Very High,93.60,Very High,11.32,Moderate,28.75,Low,40.47,Moderate,159.99,High
+Amman,Jordan,29.82,Very Low,61.92,High,65.67,High,89.05,Very High,52.41,Low,8.83,Moderate,42.39,High,75.68,High,113.12,Low
 Aktobe,Kazakhstan,?,,44.12,Moderate,52.78,Moderate,27.93,Moderate,?,,10.83,Moderate,18.00,Very Low,93.10,Very High,?,
+Almaty,Kazakhstan,33.98,Very Low,34.76,Low,47.59,Moderate,58.30,Moderate,29.66,Very Low,11.69,Moderate,38.98,Moderate,78.45,High,83.00,Very Low
 Pavlodar,Kazakhstan,27.25,Very Low,39.22,Low,86.11,Very High,?,,25.00,Very Low,8.52,Moderate,30.00,Low,96.55,Very High,?,
 Kisumu,Kenya,?,,89.71,Very High,44.44,Moderate,97.59,Very High,?,,?,,20.00,Very Low,0.00,Very Low,?,
+Mombasa,Kenya,?,,31.87,Low,83.47,Very High,74.35,High,?,,?,,60.00,Very High,73.56,High,?,
+Nairobi,Kenya,28.44,Very Low,41.07,Moderate,61.54,High,99.79,Very High,36.21,Very Low,22.83,Very High,56.62,Very High,79.72,High,81.88,Very Low
+Pristina,Kosovo (Disputed Territory),48.70,Low,67.83,High,65.28,High,76.84,High,25.25,Very Low,10.76,Moderate,21.92,Very Low,71.07,High,133.50,Moderate
 Ardiya,Kuwait,?,,94.12,Very High,58.33,Moderate,20.18,Moderate,?,,?,,10.00,Very Low,89.66,Very High,?,
+As-salimiyah,Kuwait,74.05,Moderate,50.00,Moderate,56.94,Moderate,22.79,Moderate,53.59,Low,7.50,Low,33.50,Low,22.41,Low,140.44,Moderate
+Kuwait City,Kuwait,68.76,Moderate,69.20,High,59.62,Moderate,20.22,Moderate,48.08,Low,15.75,High,32.11,Low,65.81,High,112.21,Low
+Bishkek,Kyrgyzstan,21.98,Very Low,43.06,Moderate,52.35,Moderate,58.11,Moderate,25.22,Very Low,15.89,High,33.22,Low,73.38,High,86.69,Very Low
+Vientiane,Laos,?,,68.59,High,33.73,Low,74.16,High,?,,23.94,Very High,21.50,Very Low,81.14,Very High,?,
+Riga,Latvia,52.42,Low,62.25,High,61.22,High,74.70,High,50.95,Low,8.81,Moderate,31.86,Low,37.60,Low,146.58,High
+Beirut,Lebanon,15.99,Very Low,52.88,Moderate,64.94,High,94.74,Very High,113.91,Very High,19.41,Very High,39.82,Moderate,93.51,Very High,77.34,Very Low
+Tripoli,Lebanon,33.54,Very Low,36.32,Low,48.17,Moderate,96.54,Very High,54.66,Low,11.88,Moderate,27.44,Low,62.74,High,110.13,Low
+Maseru,Lesotho,?,,33.40,Low,55.56,Moderate,91.79,Very High,?,,?,,80.00,Very High,66.32,High,?,
 Monrovia,Liberia,122.27,Very High,17.73,Very Low,38.89,Low,63.71,High,81.18,High,5.51,Low,30.00,Low,95.69,Very High,102.14,Low
 Benghazi,Libya,26.79,Very Low,37.61,Low,50.83,Moderate,95.91,Very High,42.24,Low,6.24,Low,18.00,Very Low,71.26,High,114.85,Low
+Tripoli,Libya,33.54,Very Low,36.32,Low,48.17,Moderate,96.54,Very High,54.66,Low,11.88,Moderate,27.44,Low,62.74,High,110.13,Low
+Kaunas,Lithuania,64.18,Moderate,62.27,High,74.09,High,68.94,High,43.27,Low,9.12,Moderate,24.04,Very Low,25.76,Low,166.78,Very High
+Vilnius,Lithuania,61.98,Moderate,72.91,High,73.01,High,66.59,High,46.48,Low,11.95,Moderate,27.68,Low,23.84,Low,166.31,Very High
+Luxembourg,Luxembourg,104.16,High,70.25,High,73.05,High,82.62,Very High,82.08,High,13.01,High,34.10,Low,21.18,Low,181.16,Very High
+Macao,Macao,66.96,Moderate,77.36,High,49.54,Moderate,81.70,Very High,69.43,Moderate,23.59,Very High,16.56,Very Low,62.47,High,132.05,Moderate
+Taipa,Macao,?,,83.92,Very High,44.44,Moderate,?,,?,,?,,20.00,Very Low,107.76,Very High,?,
+Antananarivo,Madagascar,16.44,Very Low,37.83,Low,37.30,Low,99.27,Very High,30.70,Very Low,21.43,Very High,23.50,Very Low,94.26,Very High,74.41,Very Low
+Lilongwe,Malawi,?,,49.56,Moderate,34.72,Low,98.58,Very High,?,,?,,20.34,Very Low,81.38,Very High,?,
+Alor Setar,Malaysia,?,,60.54,High,72.22,High,58.15,Moderate,?,,?,,10.00,Very Low,34.74,Low,?,
 Ampang Jaya,Malaysia,39.98,Very Low,64.22,High,72.22,High,?,,36.41,Very Low,11.66,Moderate,30.00,Low,55.17,Moderate,?,
 Bukit Mertajam,Malaysia,?,,64.36,High,77.78,High,59.49,Moderate,?,,?,,23.50,Very Low,43.97,Moderate,?,
+George Town,Malaysia,54.90,Low,67.65,High,81.54,Very High,58.15,Moderate,33.90,Very Low,8.58,Moderate,25.00,Very Low,55.46,Moderate,146.34,High
+Johor Bahru,Malaysia,58.85,Low,43.56,Moderate,63.64,High,64.46,High,38.99,Very Low,7.20,Low,36.44,Moderate,59.60,Moderate,123.21,Moderate
+Kota Bharu,Malaysia,?,,45.74,Moderate,77.78,High,?,,?,,7.08,Low,10.00,Very Low,46.26,Moderate,?,
+Kota Kinabalu,Malaysia,45.55,Low,47.30,Moderate,66.91,High,58.69,Moderate,38.41,Very Low,12.04,High,42.20,High,61.96,High,109.91,Low
+Kuala Lumpur,Malaysia,66.52,Moderate,35.92,Low,67.64,High,56.55,Moderate,38.70,Very Low,8.82,Moderate,41.78,High,66.59,High,112.50,Low
 Kuala Terengganu,Malaysia,?,,71.11,High,37.96,Low,56.86,Moderate,?,,?,,21.67,Very Low,60.49,High,?,
+Kuching,Malaysia,30.95,Very Low,52.39,Moderate,78.33,High,59.17,Moderate,40.44,Low,16.46,Very High,26.91,Very Low,50.00,Moderate,122.34,Moderate
+Miri,Malaysia,42.09,Low,58.45,Moderate,66.67,High,59.92,Moderate,43.99,Low,10.34,Moderate,24.00,Very Low,42.80,Moderate,137.43,Moderate
+Penang,Malaysia,65.52,Moderate,63.44,High,77.73,High,59.28,Moderate,37.50,Very Low,8.35,Moderate,31.47,Low,52.49,Moderate,145.95,High
 Sungai Petani,Malaysia,?,,48.56,Moderate,100.00,Very High,59.28,Moderate,?,,?,,35.00,Moderate,68.10,High,?,
 Maldives,Maldives,27.44,Very Low,35.38,Low,40.59,Moderate,58.08,Moderate,58.62,Low,17.10,Very High,21.75,Very Low,80.87,Very High,76.51,Very Low
+Male,Maldives,27.44,Very Low,35.38,Low,40.59,Moderate,58.08,Moderate,58.62,Low,17.10,Very High,21.75,Very Low,80.87,Very High,76.51,Very Low
+Birkirkara,Malta,41.63,Low,52.12,Moderate,59.72,Moderate,98.20,Very High,69.72,Moderate,10.91,Moderate,16.00,Very Low,88.22,Very High,114.64,Low
 Bugibba,Malta,?,,37.58,Low,72.22,High,98.28,Very High,?,,7.92,Low,25.00,Very Low,68.62,High,?,
 Gozo,Malta,45.17,Low,78.33,High,79.17,High,97.70,Very High,57.06,Low,6.89,Low,7.00,Very Low,27.59,Low,186.98,Very High
 Gzira,Malta,39.12,Very Low,42.54,Moderate,14.68,Very Low,98.20,Very High,82.09,High,15.10,High,15.00,Very Low,111.67,Very High,70.27,Very Low
+Marsascala,Malta,?,,73.09,High,79.17,High,98.20,Very High,?,,15.76,High,34.00,Low,50.00,Moderate,?,
+Mosta,Malta,70.30,Moderate,76.69,High,87.04,Very High,97.35,Very High,59.22,Low,6.40,Low,32.00,Low,70.40,High,158.48,High
+Msida,Malta,?,,31.66,Low,68.06,High,98.10,Very High,?,,10.38,Moderate,13.00,Very Low,64.94,High,?,
 San Gwann,Malta,42.30,Low,65.81,High,77.78,High,97.70,Very High,70.42,Moderate,14.89,High,20.00,Very Low,62.93,High,139.61,Moderate
+Sliema,Malta,49.16,Low,66.46,High,60.61,High,97.44,Very High,73.99,High,12.30,High,23.64,Very Low,83.48,Very High,122.45,Moderate
+Valletta,Malta,30.82,Very Low,62.62,High,49.58,Moderate,97.44,Very High,86.32,High,28.23,Very High,34.00,Low,74.23,High,92.60,Very Low
+Curepipe,Mauritius,?,,58.82,Moderate,83.33,Very High,88.81,Very High,?,,4.39,Very Low,61.00,Very High,67.24,High,?,
+Phoenix,Mauritius,132.84,Very High,48.27,Moderate,67.15,High,53.76,Moderate,69.42,Moderate,3.25,Very Low,32.62,Low,55.98,Moderate,158.23,High
+Port Louis,Mauritius,24.82,Very Low,42.06,Moderate,56.75,Moderate,88.41,Very High,45.85,Low,10.45,Moderate,68.00,Very High,62.25,High,92.60,Very Low
 Vacoas,Mauritius,?,,62.50,High,40.97,Moderate,88.25,Very High,?,,4.65,Very Low,20.00,Very Low,48.28,Moderate,?,
+Acapulco,Mexico,?,,36.41,Low,61.81,High,?,,?,,12.03,High,20.00,Very Low,75.00,High,?,
 Apodaca,Mexico,?,,48.42,Moderate,53.47,Moderate,37.30,Moderate,?,,4.97,Very Low,45.00,High,53.45,Moderate,?,
+Cancun,Mexico,38.30,Very Low,45.48,Moderate,76.10,High,77.70,High,36.78,Very Low,7.05,Low,27.45,Low,41.61,Moderate,142.20,Moderate
+Chihuahua,Mexico,69.45,Moderate,41.22,Moderate,73.28,High,79.66,High,33.79,Very Low,2.38,Very Low,18.75,Very Low,32.90,Low,167.18,Very High
+Ciudad Juarez,Mexico,65.33,Moderate,32.52,Low,67.22,High,72.45,High,34.30,Very Low,9.58,Moderate,26.00,Very Low,53.62,Moderate,131.67,Moderate
 Ciudad del Carmen,Mexico,?,,53.82,Moderate,63.89,High,74.38,High,?,,?,,37.00,Moderate,57.64,Moderate,?,
 Cozumel,Mexico,29.45,Very Low,65.83,High,72.92,High,82.12,Very High,32.87,Very Low,4.53,Very Low,10.50,Very Low,44.25,Moderate,158.66,High
+Culiacan,Mexico,41.94,Low,29.82,Low,60.42,High,70.43,High,33.09,Very Low,6.82,Low,32.75,Low,42.13,Moderate,124.74,Moderate
+Durango,Mexico,33.93,Very Low,62.40,High,68.98,High,82.51,Very High,33.12,Very Low,14.01,High,15.00,Very Low,31.53,Low,154.03,High
+Ensenada,Mexico,?,,64.92,High,92.76,Very High,96.82,Very High,?,,9.75,Moderate,37.00,Moderate,39.26,Low,?,
+Guadalajara,Mexico,35.17,Very Low,38.69,Low,79.79,High,92.83,Very High,32.53,Very Low,8.44,Moderate,40.72,Moderate,62.82,High,122.34,Moderate
+Hermosillo,Mexico,37.26,Very Low,52.46,Moderate,76.12,High,51.33,Moderate,38.03,Very Low,8.74,Moderate,33.67,Low,45.64,Moderate,128.89,Moderate
 La Paz,Mexico,29.45,Very Low,64.74,High,78.90,High,71.02,High,41.48,Low,6.59,Low,21.67,Very Low,39.08,Low,151.76,High
+La Paz,Mexico,37.06,Very Low,46.18,Moderate,45.83,Moderate,55.46,Moderate,37.54,Very Low,9.83,Moderate,59.20,Very High,81.66,Very High,77.11,Very Low
+Leon,Mexico,?,,31.92,Low,72.64,High,37.94,Moderate,?,,4.55,Very Low,37.67,Moderate,58.56,Moderate,?,
+Mazatlan,Mexico,43.94,Low,54.30,Moderate,81.38,Very High,89.89,Very High,32.58,Very Low,11.72,Moderate,10.00,Very Low,59.41,Moderate,147.65,High
+Merida,Mexico,34.60,Very Low,74.50,High,86.61,Very High,66.32,High,33.55,Very Low,15.52,High,30.36,Low,39.54,Low,147.43,High
+Mexicali,Mexico,39.24,Very Low,40.06,Moderate,71.10,High,50.94,Moderate,34.19,Very Low,7.61,Low,34.12,Low,73.45,High,104.09,Low
+Mexico City,Mexico,36.96,Very Low,30.94,Low,65.29,High,92.37,Very High,35.36,Very Low,14.29,High,52.05,High,82.41,Very High,88.37,Very Low
+Monterrey,Mexico,42.56,Low,52.33,Moderate,68.46,High,80.37,Very High,36.85,Very Low,9.11,Moderate,31.30,Low,70.49,High,121.93,Moderate
+Playa del Carmen,Mexico,?,,49.48,Moderate,77.78,High,82.12,Very High,?,,11.15,Moderate,28.33,Low,37.72,Low,?,
 Puerto Vallarta,Mexico,26.65,Very Low,64.42,High,88.45,Very High,82.19,Very High,36.35,Very Low,16.39,Very High,22.70,Very Low,59.96,Moderate,134.30,Moderate
+Puerto Vallarta,Mexico,26.65,Very Low,64.42,High,88.45,Very High,82.19,Very High,36.35,Very Low,16.39,Very High,22.70,Very Low,59.96,Moderate,134.30,Moderate
+Queretaro,Mexico,50.07,Low,64.00,High,77.05,High,94.46,Very High,33.72,Very Low,7.44,Low,32.62,Low,36.49,Low,162.89,Very High
+Saltillo,Mexico,54.84,Low,60.45,High,86.39,Very High,92.15,Very High,38.32,Very Low,5.32,Low,39.40,Moderate,38.33,Low,163.03,Very High
 San Luis Rio Colorado,Mexico,?,,36.22,Low,83.33,Very High,58.44,Moderate,?,,5.11,Low,15.00,Very Low,28.16,Low,?,
+San Pedro Garza Garcia,Mexico,55.32,Low,81.21,Very High,91.67,Very High,?,,48.27,Low,6.19,Low,24.61,Very Low,30.86,Low,?,
 Tampico,Mexico,42.26,Low,56.15,Moderate,66.11,High,78.32,High,32.40,Very Low,7.95,Low,21.75,Very Low,32.76,Low,153.62,High
+Tijuana,Mexico,36.22,Very Low,29.23,Low,74.21,High,94.58,Very High,35.05,Very Low,5.62,Low,38.25,Moderate,73.93,High,112.77,Low
 Tlaxcala,Mexico,39.51,Very Low,69.61,High,58.33,Moderate,91.86,Very High,35.30,Very Low,3.78,Very Low,11.00,Very Low,43.39,Moderate,162.83,Very High
+Torreon,Mexico,49.30,Low,58.64,Moderate,75.83,High,72.17,High,32.06,Very Low,4.98,Very Low,24.18,Very Low,53.10,Moderate,147.75,High
 Tulum,Mexico,?,,65.84,High,62.96,High,82.05,Very High,?,,14.38,High,19.00,Very Low,36.55,Low,?,
 Tuxtla Gutierrez,Mexico,34.51,Very Low,53.10,Moderate,79.86,High,82.94,Very High,29.24,Very Low,10.53,Moderate,32.00,Low,35.69,Low,146.70,High
 Valladolid,Mexico,?,,91.91,Very High,91.67,Very High,74.48,High,?,,4.72,Very Low,33.00,Low,11.21,Very Low,?,
 Veracruz,Mexico,?,,54.33,Moderate,75.23,High,83.51,Very High,?,,7.56,Low,12.00,Very Low,34.14,Low,?,
 Villahermosa,Mexico,?,,50.50,Moderate,45.83,Moderate,73.07,High,?,,5.05,Low,34.00,Low,51.53,Moderate,?,
 Zacatecas,Mexico,?,,30.26,Low,69.44,High,85.42,Very High,?,,6.32,Low,15.00,Very Low,23.23,Low,?,
+Chisinau,Moldova,33.99,Very Low,55.15,Moderate,50.25,Moderate,76.91,High,32.21,Very Low,10.93,Moderate,27.55,Low,64.76,High,115.81,Low
+Monaco,Monaco,?,,74.32,High,75.00,High,94.90,Very High,?,,50.05,Very High,18.33,Very Low,77.99,High,?,
+Ulaanbaatar,Mongolia,25.56,Very Low,45.46,Moderate,45.50,Moderate,-3.54,Low,34.39,Very Low,12.30,High,32.46,Low,93.59,Very High,55.61,Very Low
+Budva,Montenegro,34.44,Very Low,71.15,High,76.39,High,89.65,Very High,38.41,Very Low,17.52,Very High,20.00,Very Low,23.16,Low,162.99,Very High
 Kotor,Montenegro,?,,88.24,Very High,33.33,Low,89.65,Very High,?,,15.81,High,19.00,Very Low,34.48,Low,?,
+Podgorica,Montenegro,36.00,Very Low,52.18,Moderate,42.24,Moderate,88.40,Very High,38.74,Very Low,13.82,High,14.30,Very Low,50.18,Moderate,128.55,Moderate
 Tivat,Montenegro,?,,66.60,High,25.00,Low,89.39,Very High,?,,18.83,Very High,5.00,Very Low,49.08,Moderate,?,
+Agadir,Morocco,28.67,Very Low,62.94,High,51.68,Moderate,96.21,Very High,34.72,Very Low,19.70,Very High,31.00,Low,36.19,Low,132.88,Moderate
+Casablanca,Morocco,32.47,Very Low,44.53,Moderate,44.59,Moderate,98.08,Very High,35.74,Very Low,15.72,High,48.09,High,82.25,Very High,87.61,Very Low
+Marrakech,Morocco,29.55,Very Low,57.35,Moderate,44.49,Moderate,83.43,Very High,39.69,Very Low,11.78,Moderate,15.00,Very Low,85.25,Very High,106.01,Low
 Nador,Morocco,?,,65.69,High,0.00,Very Low,98.44,Very High,?,,5.16,Low,16.00,Very Low,59.20,Moderate,?,
+Tangier,Morocco,33.55,Very Low,45.07,Moderate,25.37,Low,98.39,Very High,36.63,Very Low,12.03,High,33.67,Low,59.49,Moderate,106.71,Low
 Tetouan,Morocco,32.14,Very Low,62.18,High,33.89,Low,98.14,Very High,30.75,Very Low,14.24,High,20.00,Very Low,37.50,Low,137.90,Moderate
+Maputo,Mozambique,?,,40.35,Moderate,46.99,Moderate,94.80,Very High,?,,22.23,Very High,25.00,Very Low,67.37,High,?,
+Yangon,Myanmar,9.50,Very Low,53.81,Moderate,47.47,Moderate,57.78,Moderate,40.25,Low,15.44,High,55.00,Very High,91.51,Very High,60.98,Very Low
 Swakopmund,Namibia,?,,40.78,Moderate,41.67,Moderate,97.66,Very High,?,,?,,60.00,Very High,55.17,Moderate,?,
 Walvis Bay,Namibia,?,,37.45,Low,25.00,Low,98.01,Very High,?,,3.44,Very Low,26.00,Very Low,74.86,High,?,
+Windhoek,Namibia,38.85,Very Low,31.07,Low,63.95,High,84.97,Very High,37.99,Very Low,6.15,Low,25.53,Very Low,39.29,Low,136.07,Moderate
+Kathmandu,Nepal,22.89,Very Low,63.67,High,56.76,Moderate,92.64,Very High,29.47,Very Low,23.48,Very High,36.87,Moderate,95.37,Very High,86.13,Very Low
 Amstelveen,Netherlands,97.16,High,84.04,Very High,71.30,High,87.17,Very High,80.61,High,6.57,Low,16.60,Very Low,23.13,Low,200.11,Very High
+Amsterdam,Netherlands,91.63,High,66.28,High,68.85,High,87.45,Very High,79.64,High,10.44,Moderate,29.72,Low,30.75,Low,172.73,Very High
 Best,Netherlands,97.87,High,95.34,Very High,88.09,Very High,?,,63.97,Moderate,4.93,Very Low,15.52,Very Low,5.58,Very Low,?,
 Beverwijk,Netherlands,?,,21.69,Low,88.89,Very High,88.21,Very High,?,,?,,0.00,Very Low,27.59,Low,?,
+Eindhoven,Netherlands,86.89,High,75.55,High,72.65,High,85.38,Very High,77.65,High,6.46,Low,25.59,Very Low,22.37,Low,188.12,Very High
 Goes,Netherlands,?,,91.18,Very High,50.00,Moderate,85.10,Very High,?,,?,,10.00,Very Low,6.90,Very Low,?,
+Rotterdam,Netherlands,91.08,High,63.80,High,76.88,High,87.89,Very High,75.46,High,6.52,Low,30.03,Low,42.50,Moderate,170.96,Very High
+Noumea,New Caledonia,60.20,Moderate,30.11,Low,54.17,Moderate,94.73,Very High,97.95,Very High,8.35,Moderate,35.00,Moderate,59.31,Moderate,117.19,Low
+Auckland,New Zealand,83.10,Moderate,54.33,Moderate,73.27,High,99.89,Very High,80.24,High,11.24,Moderate,37.30,Moderate,29.31,Low,165.56,Very High
+Cambridge,New Zealand,92.68,High,71.06,High,74.47,High,91.37,Very High,72.56,High,8.73,Moderate,33.56,Low,32.18,Low,178.62,Very High
+Christchurch,New Zealand,89.23,High,60.12,High,79.94,High,88.79,Very High,75.34,High,4.76,Very Low,22.43,Very Low,23.08,Low,188.43,Very High
+Dunedin,New Zealand,?,,79.92,High,71.00,High,?,,?,,8.68,Moderate,21.91,Very Low,19.16,Very Low,?,
+Hamilton,New Zealand,85.02,High,45.93,Moderate,80.59,Very High,61.06,High,65.36,Moderate,8.05,Moderate,33.03,Low,55.35,Moderate,141.56,Moderate
+Invercargill,New Zealand,?,,49.98,Moderate,94.44,Very High,?,,?,,3.07,Very Low,27.50,Low,30.93,Low,?,
+Napier,New Zealand,?,,28.66,Low,66.67,High,?,,?,,7.86,Low,7.50,Very Low,21.08,Low,?,
+New Plymouth,New Zealand,119.21,Very High,60.65,High,87.04,Very High,?,,80.68,High,?,,15.67,Very Low,8.97,Very Low,?,
+Queenstown,New Zealand,?,,79.78,High,72.22,High,?,,?,,13.30,High,15.00,Very Low,12.07,Very Low,?,
+Wellington,New Zealand,92.96,High,70.91,High,74.96,High,97.68,Very High,76.94,High,6.40,Low,27.74,Low,13.46,Very Low,198.24,Very High
+Granada,Nicaragua,81.66,Moderate,70.86,High,73.17,High,86.55,Very High,51.64,Low,7.62,Low,23.30,Very Low,40.20,Moderate,174.98,Very High
+Leon,Nicaragua,?,,31.92,Low,72.64,High,37.94,Moderate,?,,4.55,Very Low,37.67,Moderate,58.56,Moderate,?,
+Managua,Nicaragua,21.32,Very Low,49.53,Moderate,65.78,High,68.80,High,42.28,Low,11.21,Moderate,53.83,High,61.00,High,99.52,Very Low
+Abuja,Nigeria,?,,42.85,Moderate,56.13,Moderate,79.42,High,?,,21.82,Very High,23.67,Very Low,57.70,Moderate,?,
 Enugu,Nigeria,?,,29.41,Low,58.33,Moderate,?,,?,,?,,0.00,Very Low,111.38,Very High,?,
+Lagos,Nigeria,8.23,Very Low,34.23,Low,46.04,Moderate,60.75,High,37.04,Very Low,12.81,High,66.78,Very High,89.52,Very High,49.49,Very Low
+Skopje,North Macedonia,36.70,Very Low,53.00,Moderate,55.58,Moderate,76.30,High,34.70,Very Low,12.96,High,28.11,Low,82.77,Very High,103.18,Low
+Alesund,Norway,80.77,Moderate,63.63,High,77.08,High,79.56,High,99.93,Very High,5.13,Low,17.67,Very Low,27.70,Low,179.05,Very High
+Bergen,Norway,86.68,High,72.06,High,75.66,High,78.83,High,97.39,Very High,7.13,Low,23.77,Very Low,20.41,Low,184.87,Very High
 Bodo,Norway,71.56,Moderate,60.76,High,94.44,Very High,70.53,High,104.35,Very High,7.98,Low,5.00,Very Low,6.90,Very Low,194.78,Very High
 Fredrikstad,Norway,?,,58.95,Moderate,95.83,Very High,68.61,High,?,,6.99,Low,25.00,Very Low,27.59,Low,?,
+Haugesund,Norway,110.66,Very High,64.00,High,74.44,High,82.30,Very High,88.59,High,3.30,Very Low,5.00,Very Low,10.86,Very Low,211.57,Very High
+Kristiansand,Norway,100.84,High,55.94,Moderate,75.56,High,72.77,High,95.88,Very High,4.59,Very Low,41.25,High,10.20,Very Low,181.18,Very High
 Kristiansund,Norway,?,,47.06,Moderate,70.83,High,77.17,High,?,,3.89,Very Low,41.33,High,13.79,Very Low,?,
 Molde,Norway,?,,83.80,Very High,72.22,High,75.62,High,?,,4.16,Very Low,10.00,Very Low,20.26,Low,?,
+Oslo,Norway,84.68,Moderate,65.60,High,77.99,High,59.99,Moderate,99.44,Very High,10.66,Moderate,31.21,Low,23.47,Low,166.01,Very High
 Sandnes,Norway,82.28,Moderate,52.19,Moderate,55.79,Moderate,?,,94.63,Very High,6.40,Low,12.00,Very Low,36.21,Low,?,
+Stavanger,Norway,84.43,Moderate,75.52,High,73.34,High,79.99,High,101.81,Very High,7.90,Low,24.22,Very Low,12.29,Very Low,189.13,Very High
+Tromso,Norway,89.54,High,67.41,High,83.18,Very High,57.89,Moderate,96.06,Very High,8.42,Moderate,32.50,Low,18.73,Very Low,175.33,Very High
+Trondheim,Norway,83.79,Moderate,79.84,High,81.82,Very High,66.68,High,96.67,Very High,8.93,Moderate,24.47,Very Low,9.74,Very Low,191.07,Very High
+Muscat,Oman,85.90,High,78.91,High,59.41,Moderate,67.22,High,51.04,Low,4.64,Very Low,20.80,Very Low,36.31,Low,175.63,Very High
 Salalah,Oman,?,,83.04,Very High,44.44,Moderate,81.92,Very High,?,,?,,21.67,Very Low,36.64,Low,?,
+Sohar,Oman,?,,85.29,Very High,56.48,Moderate,64.84,High,?,,13.91,High,90.00,Very High,33.33,Low,?,
 Bahawalpur,Pakistan,?,,78.19,High,75.00,High,50.20,Moderate,?,,4.42,Very Low,12.00,Very Low,35.52,Low,?,
+Hyderabad,Pakistan,52.02,Low,56.36,Moderate,65.33,High,73.54,High,26.32,Very Low,8.70,Moderate,42.80,High,76.29,High,116.04,Low
+Islamabad,Pakistan,30.76,Very Low,70.80,High,63.81,High,76.91,High,21.29,Very Low,9.66,Moderate,35.05,Moderate,41.71,Moderate,141.75,Moderate
+Karachi,Pakistan,30.08,Very Low,46.64,Moderate,56.90,Moderate,71.32,High,20.78,Very Low,14.92,High,41.48,High,89.97,Very High,84.16,Very Low
+Lahore,Pakistan,24.48,Very Low,61.09,High,63.00,High,67.56,High,21.33,Very Low,14.30,High,33.78,Low,78.68,High,102.29,Low
+Multan,Pakistan,25.49,Very Low,62.95,High,60.13,High,54.02,Moderate,18.44,Very Low,8.40,Moderate,16.50,Very Low,79.23,High,112.41,Low
+Quetta,Pakistan,32.36,Very Low,43.05,Moderate,51.39,Moderate,70.13,High,17.79,Very Low,28.36,Very High,16.67,Very Low,91.24,Very High,79.10,Very Low
+Gaza,Palestine,22.22,Very Low,55.36,Moderate,44.44,Moderate,88.97,Very High,48.99,Low,10.27,Moderate,19.00,Very Low,84.09,Very High,103.27,Low
+Ramallah,Palestine,36.35,Very Low,70.09,High,74.54,High,95.46,Very High,65.39,Moderate,4.98,Very Low,29.00,Low,39.66,Low,158.76,High
+David,Panama,40.35,Low,62.71,High,78.80,High,66.56,High,45.37,Low,8.54,Moderate,66.50,Very High,34.83,Low,131.65,Moderate
+Panama City,Panama,32.58,Very Low,52.25,Moderate,59.63,Moderate,67.84,High,54.71,Low,11.68,Moderate,34.61,Low,64.47,High,108.20,Low
+Santiago,Panama,31.39,Very Low,42.54,Moderate,66.23,High,90.21,Very High,45.70,Low,18.52,Very High,37.18,Moderate,70.00,High,102.05,Low
+Port Moresby,Papua New Guinea,7.32,Very Low,17.87,Very Low,24.13,Low,71.75,High,79.68,High,260.00,,31.50,Low,76.16,High,0.00,Very Low
+Asuncion,Paraguay,27.53,Very Low,50.58,Moderate,64.28,High,92.24,Very High,30.89,Very Low,14.89,High,47.57,High,69.49,High,104.67,Low
+San Antonio,Paraguay,139.98,Very High,51.17,Moderate,71.63,High,80.58,Very High,62.07,Moderate,1.95,Very Low,30.29,Low,45.28,Moderate,183.60,Very High
 Arequipa,Peru,29.80,Very Low,53.98,Moderate,50.00,Moderate,83.90,Very High,30.14,Very Low,17.79,Very High,33.00,Low,86.85,Very High,91.67,Very Low
 Cusco,Peru,26.61,Very Low,56.87,Moderate,36.11,Low,82.03,Very High,33.27,Very Low,40.68,Very High,25.00,Very Low,32.76,Low,102.52,Low
+Lima,Peru,31.72,Very Low,29.60,Low,58.40,Moderate,97.69,Very High,32.98,Very Low,16.96,Very High,50.04,High,85.11,Very High,81.40,Very Low
 Piura,Peru,32.72,Very Low,55.88,Moderate,5.56,Very Low,?,,23.60,Very Low,22.62,Very High,50.00,High,89.66,Very High,?,
 Trujillo,Peru,?,,39.50,Low,41.67,Moderate,98.23,Very High,?,,9.95,Moderate,22.00,Very Low,60.06,High,?,
+Bacolod,Philippines,?,,49.72,Moderate,78.19,High,?,,?,,20.00,Very High,32.00,Low,74.59,High,?,
+Cagayan de Oro City,Philippines,23.90,Very Low,53.06,Moderate,62.96,High,81.15,Very High,36.90,Very Low,32.97,Very High,17.50,Very Low,80.95,Very High,88.95,Very Low
+Cebu,Philippines,17.44,Very Low,48.15,Moderate,62.16,High,60.40,High,39.93,Very Low,30.81,Very High,35.82,Moderate,84.33,Very High,67.12,Very Low
+Davao,Philippines,20.13,Very Low,72.21,High,72.21,High,58.57,Moderate,39.39,Very Low,33.50,Very High,27.61,Low,58.55,Moderate,102.29,Low
+Dumaguete,Philippines,?,,65.03,High,70.45,High,62.09,High,?,,19.67,Very High,18.71,Very Low,78.98,High,?,
+Iloilo,Philippines,25.42,Very Low,58.06,Moderate,59.43,Moderate,?,,33.70,Very Low,11.35,Moderate,41.67,High,71.82,High,?,
 Laoag City,Philippines,?,,60.88,High,100.00,Very High,68.70,High,?,,?,,0.00,Very Low,15.52,Very Low,?,
+Manila,Philippines,22.13,Very Low,35.65,Low,63.26,High,61.23,High,41.33,Low,35.89,Very High,54.37,High,89.86,Very High,45.28,Very Low
 Naga,Philippines,?,,67.99,High,75.00,High,60.40,High,?,,?,,0.00,Very Low,36.61,Low,?,
+San Juan,Philippines,67.23,Moderate,30.98,Low,63.45,High,71.25,High,69.68,Moderate,5.54,Low,37.46,Moderate,50.83,Moderate,126.38,Moderate
 Tacloban,Philippines,?,,60.54,High,72.22,High,57.75,Moderate,?,,?,,10.00,Very Low,46.55,Moderate,?,
+Gdansk,Poland,42.88,Low,66.59,High,49.93,Moderate,75.51,High,47.92,Low,18.35,Very High,31.55,Low,59.23,Moderate,117.19,Low
+Katowice,Poland,50.94,Low,56.03,Moderate,41.22,Moderate,72.49,High,39.53,Very Low,12.90,High,31.04,Low,70.77,High,109.49,Low
+Krakow (Cracow),Poland,49.53,Low,67.57,High,52.22,Moderate,73.86,High,44.05,Low,17.06,Very High,32.09,Low,74.29,High,112.06,Low
+Lodz,Poland,42.72,Low,56.06,Moderate,51.29,Moderate,77.02,High,38.16,Very Low,15.72,High,35.13,Moderate,67.19,High,109.40,Low
+Poznan,Poland,44.54,Low,67.21,High,51.58,Moderate,77.41,High,41.32,Low,16.80,Very High,33.27,Low,65.64,High,116.53,Low
+Warsaw,Poland,44.24,Low,71.44,High,56.91,Moderate,74.61,High,54.13,Low,18.09,Very High,35.37,Moderate,61.78,High,118.67,Low
+Wroclaw,Poland,48.63,Low,66.79,High,52.62,Moderate,78.39,High,41.41,Low,16.29,Very High,33.99,Low,66.61,High,118.19,Low
 Albufeira,Portugal,?,,65.70,High,45.56,Moderate,98.00,Very High,?,,13.34,High,10.00,Very Low,45.75,Moderate,?,
+Faro,Portugal,46.26,Low,72.27,High,53.11,Moderate,98.08,Very High,51.81,Low,9.85,Moderate,28.00,Low,29.45,Low,159.91,High
+Funchal,Portugal,47.40,Low,84.61,Very High,50.42,Moderate,99.45,Very High,48.94,Low,9.50,Moderate,19.00,Very Low,20.97,Low,176.71,Very High
+Lagos,Portugal,8.23,Very Low,34.23,Low,46.04,Moderate,60.75,High,37.04,Very Low,12.81,High,66.78,Very High,89.52,Very High,49.49,Very Low
+Lisbon,Portugal,45.37,Low,71.24,High,72.38,High,98.59,Very High,51.69,Low,18.34,Very High,35.93,Moderate,35.63,Low,150.37,High
 Ponta Delgada,Portugal,39.01,Very Low,78.49,High,69.91,High,99.65,Very High,49.24,Low,14.88,High,17.33,Very Low,7.93,Very Low,182.27,Very High
+Porto,Portugal,43.48,Low,64.30,High,75.20,High,96.61,Very High,48.95,Low,13.60,High,29.51,Low,35.12,Low,155.16,High
 Tavira,Portugal,?,,87.13,Very High,88.89,Very High,98.00,Very High,?,,10.62,Moderate,15.00,Very Low,6.90,Very Low,?,
+San Juan,Puerto Rico,67.23,Moderate,30.98,Low,63.45,High,71.25,High,69.68,Moderate,5.54,Low,37.46,Moderate,50.83,Moderate,126.38,Moderate
+Doha,Qatar,88.97,High,87.58,Very High,73.48,High,36.03,Moderate,63.25,Moderate,6.28,Low,30.62,Low,60.30,High,152.67,High
+Kinshasa,Republic Of Congo,14.93,Very Low,23.14,Low,18.06,Very Low,82.84,Very High,109.23,Very High,27.09,Very High,75.00,Very High,115.52,Very High,0.00,Very Low
+Brasov,Romania,44.66,Low,74.40,High,49.76,Moderate,?,,36.25,Very Low,10.52,Moderate,20.00,Very Low,34.60,Low,?,
+Bucharest,Romania,52.93,Low,72.08,High,54.81,Moderate,75.61,High,39.41,Very Low,10.14,Moderate,41.23,High,75.37,High,119.40,Low
+Iasi,Romania,44.26,Low,71.04,High,56.33,Moderate,73.04,High,35.77,Very Low,11.25,Moderate,34.26,Low,58.57,Moderate,129.10,Moderate
 Sighetu Marmatiei,Romania,53.71,Low,52.45,Moderate,76.39,High,79.54,High,26.41,Very Low,5.17,Low,7.50,Very Low,11.21,Very Low,185.75,Very High
+Timisoara,Romania,55.81,Low,77.25,High,72.34,High,82.05,Very High,35.75,Very Low,9.63,Moderate,23.60,Very Low,56.96,Moderate,154.25,High
 Arkhangelsk,Russia,30.40,Very Low,55.15,Moderate,54.83,Moderate,31.17,Moderate,39.59,Very Low,14.59,High,15.40,Very Low,64.66,High,102.70,Low
 Astrakhan,Russia,?,,79.71,High,43.56,Moderate,64.84,High,?,,6.38,Low,12.00,Very Low,60.20,High,?,
 Belgorod,Russia,31.08,Very Low,68.79,High,56.94,Moderate,64.98,High,31.49,Very Low,17.74,Very High,42.75,High,35.27,Low,125.48,Moderate
 Bryansk,Russia,?,,59.31,Moderate,50.69,Moderate,?,,?,,6.08,Low,39.00,Moderate,75.86,High,?,
 Irkutsk,Russia,37.23,Very Low,42.54,Moderate,54.46,Moderate,4.64,Low,33.44,Very Low,11.70,Moderate,29.00,Low,50.83,Moderate,96.06,Very Low
+Izhevsk,Russia,39.10,Very Low,65.88,High,50.28,Moderate,?,,31.85,Very Low,10.35,Moderate,30.17,Low,75.69,High,?,
+Kaliningrad,Russia,30.46,Very Low,68.02,High,52.27,Moderate,73.69,High,36.95,Very Low,15.87,High,33.36,Low,51.88,Moderate,120.83,Moderate
+Kazan,Russia,36.10,Very Low,66.26,High,62.35,High,39.56,Moderate,33.26,Very Low,16.71,Very High,38.38,Moderate,63.42,High,104.19,Low
 Khabarovsk,Russia,?,,60.92,High,44.05,Moderate,15.90,Low,?,,15.09,High,28.75,Low,50.77,Moderate,?,
 Khimki,Russia,?,,51.47,Moderate,33.33,Low,56.73,Moderate,?,,7.77,Low,77.50,Very High,66.67,High,?,
 Kirov,Russia,?,,75.98,High,56.02,Moderate,?,,?,,11.21,Moderate,39.33,Moderate,45.40,Moderate,?,
+Krasnodar,Russia,35.22,Very Low,66.55,High,50.90,Moderate,78.72,High,33.62,Very Low,15.79,High,53.67,High,57.94,Moderate,109.36,Low
+Krasnoyarsk,Russia,42.15,Low,53.28,Moderate,45.08,Moderate,9.50,Low,32.58,Very Low,9.30,Moderate,43.59,High,84.88,Very High,73.75,Very Low
 Kursk,Russia,?,,77.45,High,69.44,High,66.98,High,?,,11.72,Moderate,14.00,Very Low,27.59,Low,?,
 Magnitogorsk,Russia,?,,25.00,Low,27.78,Low,25.86,Moderate,?,,7.00,Low,40.00,Moderate,97.02,Very High,?,
 Makhachkala,Russia,30.87,Very Low,72.95,High,41.67,Moderate,?,,33.87,Very Low,7.93,Low,25.00,Very Low,48.71,Moderate,?,
+Moscow,Russia,49.97,Low,62.10,High,64.39,High,55.83,Moderate,43.05,Low,22.08,Very High,51.17,High,57.27,Moderate,105.25,Low
 Murmansk,Russia,?,,56.47,Moderate,45.37,Moderate,23.23,Moderate,?,,?,,45.00,High,42.36,Moderate,?,
-Nizhny Novgorod,Russia,35.14,Very Low,68.28,High,74.13,High,45.51,Moderate,34.64,Very Low,13.57,High,29.25,Low,34.75,Low,138.19,Moderate
+Nizhny Novgorod,Russia,35.14,Very Low,68.29,High,74.13,High,45.51,Moderate,34.64,Very Low,13.57,High,29.25,Low,34.75,Low,138.20,Moderate
 Novokuznetsk,Russia,?,,40.88,Moderate,50.00,Moderate,?,,?,,8.02,Moderate,4.00,Very Low,86.21,Very High,?,
 Novorossiysk,Russia,47.14,Low,56.62,Moderate,56.02,Moderate,?,,32.13,Very Low,8.43,Moderate,21.67,Very Low,78.22,High,?,
+Novosibirsk,Russia,37.64,Very Low,52.75,Moderate,55.42,Moderate,16.14,Low,33.18,Very Low,12.39,High,41.31,High,72.39,High,84.36,Very Low
+Omsk,Russia,35.50,Very Low,63.57,High,45.99,Moderate,16.40,Low,32.95,Very Low,8.83,Moderate,51.33,High,80.56,Very High,78.36,Very Low
 Orenburg,Russia,33.57,Very Low,61.76,High,50.00,Moderate,29.79,Moderate,36.30,Very Low,8.26,Moderate,34.67,Low,71.03,High,97.66,Very Low
 Penza,Russia,?,,64.71,High,45.83,Moderate,47.55,Moderate,?,,9.57,Moderate,31.00,Low,55.86,Moderate,?,
+Perm,Russia,35.34,Very Low,53.08,Moderate,43.86,Moderate,28.10,Moderate,33.46,Very Low,10.29,Moderate,44.09,High,62.62,High,90.16,Very Low
 Petrozavodsk,Russia,?,,65.58,High,100.00,Very High,?,,?,,?,,43.00,High,47.13,Moderate,?,
+Rostov-na-donu,Russia,36.79,Very Low,47.48,Moderate,54.01,Moderate,73.85,High,33.74,Very Low,9.09,Moderate,41.00,High,72.07,High,103.67,Low
+Saint Petersburg,Russia,41.33,Low,60.82,High,59.17,Moderate,60.64,High,38.10,Very Low,17.25,Very High,48.37,High,62.36,High,104.00,Low
+Samara,Russia,34.83,Very Low,63.34,High,45.96,Moderate,41.31,Moderate,36.44,Very Low,10.88,Moderate,41.89,High,60.10,High,102.22,Low
+Saratov,Russia,26.06,Very Low,52.52,Moderate,26.74,Low,52.30,Moderate,32.44,Very Low,12.44,High,40.27,Moderate,82.76,Very High,73.82,Very Low
+Sevastopol,Russia,?,,66.06,High,58.89,Moderate,78.26,High,?,,18.39,Very High,17.71,Very Low,46.12,Moderate,?,
+Simferopol,Russia,?,,63.53,High,49.07,Moderate,?,,?,,12.30,High,30.40,Low,79.17,High,?,
 Smolensk,Russia,?,,67.85,High,52.88,Moderate,?,,?,,10.64,Moderate,30.00,Low,60.92,High,?,
 Sochi,Russia,?,,65.35,High,46.54,Moderate,91.70,Very High,?,,22.99,Very High,40.75,Moderate,33.49,Low,?,
 Stavropol,Russia,39.44,Very Low,65.05,High,58.89,Moderate,71.68,High,29.87,Very Low,8.66,Moderate,26.50,Very Low,23.89,Low,154.92,High
 Taganrog,Russia,?,,69.98,High,50.00,Moderate,?,,?,,4.86,Very Low,21.50,Very Low,59.77,Moderate,?,
 Tolyatti (Togliatti),Russia,?,,62.58,High,47.50,Moderate,38.13,Moderate,?,,6.76,Low,27.00,Low,65.96,High,?,
 Tyumen,Russia,39.84,Very Low,58.66,Moderate,64.19,High,22.44,Moderate,33.00,Very Low,10.86,Moderate,34.80,Low,44.57,Moderate,117.15,Low
+Ufa,Russia,37.21,Very Low,47.06,Moderate,58.58,Moderate,28.12,Moderate,33.98,Very Low,11.16,Moderate,40.35,Moderate,85.39,Very High,79.56,Very Low
 Ulyanovsk,Russia,27.05,Very Low,42.94,Moderate,40.28,Moderate,?,,35.04,Very Low,10.23,Moderate,14.00,Very Low,47.84,Moderate,?,
+Vladivostok,Russia,32.32,Very Low,55.49,Moderate,53.57,Moderate,23.94,Moderate,43.57,Low,16.71,Very High,40.71,Moderate,70.86,High,81.42,Very Low
 Volgograd,Russia,?,,47.07,Moderate,41.11,Moderate,56.06,Moderate,?,,10.67,Moderate,30.94,Low,79.38,High,?,
 Vologda,Russia,?,,100.00,Very High,44.44,Moderate,?,,?,,?,,22.50,Very Low,37.93,Low,?,
+Voronezh,Russia,35.61,Very Low,59.06,Moderate,47.31,Moderate,57.69,Moderate,35.34,Very Low,11.62,Moderate,34.33,Low,71.51,High,101.94,Low
 Yakutsk,Russia,66.20,Moderate,80.65,Very High,61.11,High,-12.15,Low,40.25,Low,8.30,Moderate,35.00,Moderate,66.67,High,112.93,Low
+Yekaterinburg,Russia,56.24,Low,53.23,Moderate,50.88,Moderate,21.33,Moderate,34.84,Very Low,8.85,Moderate,38.37,Moderate,75.94,High,94.43,Very Low
 Yuzhno-Sakhalinsk,Russia,?,,54.04,Moderate,36.11,Low,23.15,Moderate,?,,13.47,High,20.00,Very Low,95.98,Very High,?,
+Kigali,Rwanda,26.63,Very Low,75.20,High,68.82,High,99.74,Very High,31.90,Very Low,210.56,,16.00,Very Low,45.91,Moderate,0.00,Very Low
+Georgetown,Saint Vincent And The Grenadines,18.10,Very Low,29.24,Low,35.71,Low,65.81,High,48.14,Low,36.75,Very High,52.00,High,66.84,High,45.96,Very Low
+Ad Dammam,Saudi Arabia,93.44,High,69.73,High,61.40,High,27.34,Moderate,47.29,Low,3.34,Very Low,29.00,Low,60.53,High,142.98,Moderate
+Al Khobar,Saudi Arabia,92.97,High,87.42,Very High,69.44,High,27.72,Moderate,57.84,Low,3.33,Very Low,23.80,Very Low,58.28,Moderate,158.05,High
+Al-khubar,Saudi Arabia,?,,82.76,Very High,48.61,Moderate,30.69,Moderate,?,,?,,31.67,Low,31.72,Low,?,
+Buraydah,Saudi Arabia,114.24,Very High,87.35,Very High,41.67,Moderate,28.67,Moderate,42.92,Low,0.76,Very Low,20.00,Very Low,40.23,Moderate,173.72,Very High
+Jeddah (Jiddah),Saudi Arabia,78.19,Moderate,70.88,High,58.72,Moderate,66.17,High,52.12,Low,3.15,Very Low,28.71,Low,68.18,High,144.09,Moderate
+Jubail,Saudi Arabia,85.71,High,74.31,High,51.92,Moderate,27.28,Moderate,50.62,Low,6.93,Low,20.22,Very Low,64.68,High,136.07,Moderate
+Medina,Saudi Arabia,82.14,Moderate,90.79,Very High,44.51,Moderate,26.18,Moderate,52.81,Low,2.11,Very Low,24.50,Very Low,79.80,High,131.94,Moderate
+Riyadh,Saudi Arabia,91.82,High,73.25,High,64.55,High,44.45,Moderate,52.59,Low,2.77,Very Low,30.01,Low,64.58,High,147.91,High
+Dakar,Senegal,23.03,Very Low,57.63,Moderate,50.64,Moderate,85.64,Very High,50.77,Low,115.65,Very High,25.00,Very Low,96.36,Very High,0.00,Very Low
+Saint-Louis,Senegal,144.63,Very High,29.47,Low,80.43,Very High,74.75,High,66.87,Moderate,1.61,Very Low,27.23,Low,39.04,Low,181.74,Very High
+Belgrade,Serbia,36.78,Very Low,61.87,High,54.08,Moderate,84.14,Very High,39.51,Very Low,20.61,Very High,35.91,Moderate,64.95,High,109.51,Low
 Cuprija,Serbia,33.12,Very Low,58.82,Moderate,64.58,High,81.60,Very High,28.35,Very Low,7.85,Low,5.00,Very Low,56.25,Moderate,145.01,High
 Jagodina,Serbia,?,,59.06,Moderate,60.00,High,81.53,Very High,?,,12.73,High,25.00,Very Low,70.44,High,?,
+Novi Sad,Serbia,43.13,Low,59.06,Moderate,50.83,Moderate,84.02,Very High,37.07,Very Low,14.79,High,16.41,Very Low,50.71,Moderate,134.61,Moderate
 Stara Pazova,Serbia,38.75,Very Low,62.50,High,34.26,Low,?,,36.99,Very Low,9.98,Moderate,10.00,Very Low,53.45,Moderate,?,
 Victoria,Seychelles,19.64,Very Low,51.47,Moderate,60.19,High,67.83,High,70.17,Moderate,16.08,Very High,29.33,Low,33.10,Low,120.44,Moderate
+Victoria,Seychelles,89.68,High,63.95,High,69.88,High,92.52,Very High,73.33,High,7.97,Low,28.47,Low,14.62,Very Low,187.35,Very High
+Singapore,Singapore,91.15,High,72.40,High,71.09,High,57.45,Moderate,83.09,High,17.52,Very High,41.14,High,33.31,Low,151.65,High
+Bratislava,Slovakia,62.35,Moderate,69.67,High,57.50,Moderate,80.72,Very High,48.80,Low,14.47,High,30.67,Low,40.90,Moderate,147.73,High
+Kosice,Slovakia,51.56,Low,70.89,High,63.63,High,75.54,High,47.49,Low,12.24,High,20.56,Very Low,47.43,Moderate,147.81,High
 Poprad,Slovakia,?,,77.50,High,52.78,Moderate,58.10,Moderate,?,,10.59,Moderate,18.75,Very Low,10.31,Very Low,?,
+Presov,Slovakia,56.58,Low,61.74,High,57.64,Moderate,75.15,High,39.02,Very Low,8.89,Moderate,23.00,Very Low,40.80,Moderate,150.11,High
+Ljubljana,Slovenia,59.98,Low,78.55,High,66.30,High,76.11,High,57.02,Low,13.04,High,27.55,Low,23.21,Low,167.16,Very High
 Mogadishu,Somalia,?,,37.00,Low,42.97,Moderate,67.29,High,?,,502.25,,25.00,Very Low,58.34,Moderate,?,
+Bloemfontein,South Africa,86.14,High,27.65,Low,58.52,Moderate,77.85,High,42.31,Low,9.65,Moderate,18.57,Very Low,67.58,High,129.41,Moderate
+Cape Town,South Africa,78.78,Moderate,26.45,Low,70.50,High,98.19,Very High,39.74,Very Low,5.65,Low,42.76,High,38.94,Low,148.70,High
+Durban,South Africa,75.39,Moderate,19.43,Very Low,57.71,Moderate,95.61,Very High,37.44,Very Low,3.23,Very Low,26.11,Very Low,53.07,Moderate,139.42,Moderate
+East London,South Africa,?,,26.15,Low,68.06,High,98.61,Very High,?,,?,,28.33,Low,50.64,Moderate,?,
+George,South Africa,?,,46.56,Moderate,75.46,High,98.05,Very High,?,,?,,15.33,Very Low,9.05,Very Low,?,
+Hermanus,South Africa,?,,66.18,High,89.58,Very High,?,,?,,?,,20.00,Very Low,0.00,Very Low,?,
+Johannesburg,South Africa,71.87,Moderate,19.30,Very Low,60.42,High,91.38,Very High,43.29,Low,3.14,Very Low,40.72,Moderate,61.14,High,124.43,Moderate
+Port Elizabeth,South Africa,?,,23.88,Low,62.86,High,98.81,Very High,?,,3.49,Very Low,31.31,Low,34.43,Low,?,
+Pretoria,South Africa,86.92,High,18.03,Very Low,66.48,High,95.83,Very High,41.52,Low,2.08,Very Low,45.51,High,56.34,Moderate,135.77,Moderate
+Busan,South Korea,77.36,Moderate,74.51,High,93.40,Very High,79.22,High,68.63,Moderate,10.69,Moderate,33.25,Low,57.83,Moderate,159.23,High
+Seoul,South Korea,78.35,Moderate,73.93,High,82.33,Very High,68.39,High,77.58,High,30.79,Very High,42.14,High,58.75,Moderate,125.26,Moderate
+Ulsan,South Korea,83.27,Moderate,64.28,High,62.50,High,81.07,Very High,76.73,High,31.31,Very High,7.00,Very Low,67.94,High,129.70,Moderate
+Almeria,Spain,66.76,Moderate,49.95,Moderate,41.67,Moderate,96.31,Very High,49.85,Low,5.66,Low,11.50,Very Low,40.52,Moderate,157.04,High
 Badajoz,Spain,?,,87.87,Very High,87.50,Very High,91.93,Very High,?,,5.39,Low,12.50,Very Low,22.49,Low,?,
 Barakaldo,Spain,?,,55.39,Moderate,71.30,High,?,,?,,11.80,Moderate,28.00,Low,33.62,Low,?,
+Barcelona,Spain,69.51,Moderate,52.56,Moderate,77.74,High,95.73,Very High,60.69,Moderate,11.54,Moderate,30.04,Low,66.16,High,140.35,Moderate
+Bilbao,Spain,64.65,Moderate,48.27,Moderate,87.76,Very High,95.65,Very High,63.36,Moderate,11.62,Moderate,33.14,Low,32.18,Low,161.00,Very High
+Canary Islands,Spain,?,,56.09,Moderate,87.50,Very High,98.89,Very High,?,,5.04,Low,30.00,Low,75.86,High,?,
+Cartagena,Spain,29.30,Very Low,50.68,Moderate,51.85,Moderate,55.95,Moderate,29.50,Very Low,23.81,Very High,30.00,Low,58.97,Moderate,95.38,Very Low
 Cordoba,Spain,?,,73.75,High,78.70,High,80.10,Very High,?,,2.53,Very Low,21.33,Very Low,16.95,Very Low,?,
+Cordoba,Spain,?,,39.84,Low,70.13,High,99.95,Very High,?,,7.93,Low,33.00,Low,72.30,High,?,
+Corunna,Spain,67.76,Moderate,84.64,Very High,80.45,Very High,97.21,Very High,53.94,Low,8.41,Moderate,21.00,Very Low,33.65,Low,187.27,Very High
+Cuenca,Spain,30.43,Very Low,60.13,High,82.21,Very High,98.36,Very High,34.28,Very Low,13.11,High,35.20,Moderate,43.91,Moderate,144.50,Moderate
 Denia,Spain,?,,66.54,High,80.42,Very High,95.37,Very High,?,,5.41,Low,25.00,Very Low,29.31,Low,?,
+Gijon,Spain,63.71,Moderate,84.38,Very High,84.44,Very High,96.63,Very High,56.43,Low,8.04,Moderate,26.33,Very Low,42.97,Moderate,178.16,Very High
+Granada,Spain,81.66,Moderate,70.86,High,73.17,High,86.55,Very High,51.64,Low,7.62,Low,23.30,Very Low,40.20,Moderate,174.98,Very High
+Guadalajara,Spain,35.17,Very Low,38.69,Low,79.79,High,92.83,Very High,32.53,Very Low,8.44,Moderate,40.72,Moderate,62.82,High,122.34,Moderate
 Huelva,Spain,?,,74.82,High,68.06,High,95.70,Very High,?,,5.34,Low,28.00,Low,64.43,High,?,
 Jerez de la Frontera,Spain,?,,60.83,High,86.11,Very High,91.71,Very High,?,,5.12,Low,12.00,Very Low,41.38,Moderate,?,
 La Linea de la Concepcion,Spain,72.68,Moderate,40.90,Moderate,47.22,Moderate,98.57,Very High,48.87,Low,5.67,Low,15.00,Very Low,73.95,High,133.91,Moderate
 Leon,Spain,79.39,Moderate,71.81,High,86.81,Very High,77.29,High,54.05,Low,5.32,Low,28.00,Low,26.96,Low,185.45,Very High
+Leon,Spain,?,,31.92,Low,72.64,High,37.94,Moderate,?,,4.55,Very Low,37.67,Moderate,58.56,Moderate,?,
+Madrid,Spain,73.40,Moderate,70.51,High,79.61,High,85.47,Very High,57.83,Low,11.53,Moderate,35.35,Moderate,51.97,Moderate,155.32,High
+Malaga,Spain,67.19,Moderate,72.68,High,73.48,High,96.98,Very High,51.92,Low,9.86,Moderate,23.50,Very Low,31.25,Low,177.30,Very High
+Marbella,Spain,60.07,Moderate,61.35,High,77.48,High,96.50,Very High,60.83,Moderate,12.15,High,19.00,Very Low,18.56,Very Low,177.76,Very High
+Oviedo,Spain,81.75,Moderate,83.90,Very High,92.22,Very High,96.54,Very High,57.36,Low,6.54,Low,25.00,Very Low,25.63,Low,201.86,Very High
+Pamplona,Spain,76.15,Moderate,88.43,Very High,86.52,Very High,88.82,Very High,60.34,Moderate,10.16,Moderate,18.00,Very Low,0.86,Very Low,213.12,Very High
 Pontevedra,Spain,?,,62.87,High,86.11,Very High,96.09,Very High,?,,6.66,Low,20.00,Very Low,7.47,Very Low,?,
 Puerto de la Cruz,Spain,?,,64.71,High,21.67,Low,98.73,Very High,?,,8.85,Moderate,30.00,Low,25.00,Low,?,
+San Sebastian,Spain,74.02,Moderate,90.97,Very High,94.44,Very High,96.56,Very High,65.72,Moderate,12.72,High,28.50,Low,16.87,Very Low,200.27,Very High
+Santander,Spain,73.64,Moderate,76.35,High,91.67,Very High,96.60,Very High,56.55,Low,6.74,Low,17.50,Very Low,18.47,Very Low,203.04,Very High
+Santiago de Compostela,Spain,56.55,Low,83.86,Very High,76.21,High,94.25,Very High,48.61,Low,12.25,High,15.50,Very Low,13.22,Very Low,192.78,Very High
+Valencia,Spain,69.68,Moderate,75.18,High,80.61,Very High,93.84,Very High,52.29,Low,7.48,Low,29.35,Low,44.45,Moderate,171.96,Very High
+Vigo,Spain,75.06,Moderate,80.56,Very High,73.29,High,96.17,Very High,52.91,Low,8.97,Moderate,20.80,Very Low,19.39,Very Low,194.09,Very High
+Zaragoza (Saragossa),Spain,67.67,Moderate,79.94,High,78.01,High,90.20,Very High,54.43,Low,8.18,Moderate,14.43,Very Low,36.22,Low,183.33,Very High
+Colombo,Sri Lanka,18.83,Very Low,59.50,Moderate,71.87,High,59.11,Moderate,32.80,Very Low,48.44,Very High,62.17,Very High,60.41,High,62.66,Very Low
+Khartoum,Sudan,5.86,Very Low,63.78,High,46.78,Moderate,32.95,Moderate,43.57,Low,38.44,Very High,42.00,High,74.83,High,50.25,Very Low
+Paramaribo,Suriname,16.59,Very Low,46.42,Moderate,43.14,Moderate,64.25,High,48.40,Low,9.83,Moderate,33.00,Low,52.13,Moderate,102.59,Low
 Manzini,Swaziland,?,,93.38,Very High,52.78,Moderate,97.00,Very High,?,,?,,48.50,High,30.17,Low,?,
 Mbabane,Swaziland,?,,69.19,High,63.89,High,97.81,Very High,?,,1.48,Very Low,13.50,Very Low,19.83,Very Low,?,
+Gothenburg,Sweden,99.26,High,51.79,Moderate,69.14,High,77.49,High,74.11,High,9.08,Moderate,25.55,Very Low,20.70,Low,176.02,Very High
+Helsingborg,Sweden,100.88,High,44.25,Moderate,90.97,Very High,78.69,High,67.65,Moderate,7.34,Low,19.00,Very Low,52.84,Moderate,166.26,Very High
 Hässleholm,Sweden,?,,100.00,Very High,91.67,Very High,?,,?,,6.85,Low,85.00,Very High,0.00,Very Low,?,
 Kalmar,Sweden,69.04,Moderate,58.49,Moderate,84.72,Very High,75.14,High,71.54,Moderate,5.80,Low,13.00,Very Low,15.52,Very Low,186.00,Very High
 Karlskrona,Sweden,?,,59.83,Moderate,20.83,Low,73.94,High,?,,?,,33.00,Low,3.45,Very Low,?,
 Nyköping,Sweden,?,,93.75,Very High,75.00,High,68.63,High,?,,23.70,Very High,100.00,Very High,27.59,Low,?,
 Solna,Sweden,?,,63.28,High,66.67,High,69.59,High,?,,11.73,Moderate,29.00,Low,41.95,Moderate,?,
+Stockholm,Sweden,90.99,High,54.15,Moderate,66.37,High,69.67,High,79.32,High,13.11,High,35.38,Moderate,19.48,Very Low,161.53,Very High
+Sundsvall,Sweden,?,,60.84,High,76.85,High,46.71,Moderate,?,,3.46,Very Low,13.00,Very Low,17.39,Very Low,?,
+Umea,Sweden,85.52,High,70.62,High,89.08,Very High,43.24,Moderate,73.94,High,6.75,Low,24.25,Very Low,2.18,Very Low,191.84,Very High
+Geneva,Switzerland,116.24,Very High,73.36,High,73.95,High,82.61,Very High,117.46,Very High,9.52,Moderate,25.49,Very Low,24.16,Low,190.18,Very High
+Zurich,Switzerland,128.69,Very High,83.25,Very High,74.43,High,81.48,Very High,128.76,Very High,7.93,Low,34.03,Low,18.00,Very Low,200.22,Very High
 Aleppo,Syria,?,,24.88,Low,41.67,Moderate,90.08,Very High,?,,79.58,Very High,37.00,Moderate,75.69,High,?,
+Damascus,Syria,5.18,Very Low,32.15,Low,35.60,Low,70.11,High,36.08,Very Low,100.74,Very High,41.67,High,67.56,High,0.00,Very Low
 Tartus,Syria,7.18,Very Low,69.51,High,80.56,Very High,95.54,Very High,27.17,Very Low,45.72,Very High,24.40,Very Low,94.83,Very High,77.84,Very Low
+Kaohsiung,Taiwan,53.30,Low,76.00,High,86.62,Very High,78.82,High,62.67,Moderate,12.92,High,26.64,Very Low,78.65,High,135.30,Moderate
+Tainan,Taiwan,49.00,Low,84.41,Very High,90.08,Very High,?,,83.36,High,17.12,Very High,18.33,Very Low,70.40,High,?,
+Taipei,Taiwan,59.64,Low,86.67,Very High,87.42,Very High,84.38,Very High,65.76,Moderate,32.98,Very High,33.90,Low,50.11,Moderate,140.37,Moderate
+Taoyuan,Taiwan,69.28,Moderate,85.02,Very High,76.92,High,?,,58.47,Low,13.58,High,36.67,Moderate,46.55,Moderate,?,
+Dushanbe,Tajikistan,15.21,Very Low,53.31,Moderate,35.19,Low,75.22,High,26.07,Very Low,15.12,High,27.00,Low,60.30,High,100.46,Low
 Mwanza,Tanzania,?,,71.32,High,69.44,High,98.77,Very High,?,,?,,55.00,Very High,55.00,Moderate,?,
+Bangkok,Thailand,30.29,Very Low,58.27,Moderate,77.08,High,58.39,Moderate,48.47,Low,26.77,Very High,46.18,High,77.22,High,85.36,Very Low
+Chiang Mai,Thailand,29.78,Very Low,76.50,High,83.81,Very High,75.93,High,41.23,Low,16.59,Very High,25.75,Very Low,77.08,High,124.02,Moderate
 Hat Yai,Thailand,?,,82.72,Very High,75.00,High,59.83,Moderate,?,,8.22,Moderate,10.00,Very Low,31.03,Low,?,
+Khon Kaen,Thailand,?,,72.06,High,67.78,High,69.73,High,?,,12.93,High,10.00,Very Low,62.05,High,?,
+Koh Samui,Thailand,?,,60.70,High,83.33,Very High,53.87,Moderate,?,,5.98,Low,28.00,Low,86.49,Very High,?,
+Phuket,Thailand,27.21,Very Low,55.06,Moderate,74.25,High,68.52,High,43.43,Low,18.78,Very High,36.36,Moderate,50.34,Moderate,116.08,Low
 Si Sa Ket,Thailand,?,,63.24,High,55.56,Moderate,62.02,High,?,,?,,30.00,Low,34.48,Low,?,
 Surin,Thailand,?,,36.76,Low,72.22,High,68.52,High,?,,?,,45.00,High,37.93,Low,?,
+Dili,Timor-Leste,10.64,Very Low,57.37,Moderate,54.58,Moderate,?,,54.65,Low,63.24,Very High,25.00,Very Low,62.96,High,?,
+Chaguanas,Trinidad And Tobago,?,,25.82,Low,66.67,High,66.25,High,?,,11.23,Moderate,33.33,Low,88.45,Very High,?,
+San Juan,Trinidad And Tobago,67.23,Moderate,30.98,Low,63.45,High,71.25,High,69.68,Moderate,5.54,Low,37.46,Moderate,50.83,Moderate,126.38,Moderate
+Al Marsa,Tunisia,23.36,Very Low,71.90,High,64.81,High,93.80,Very High,32.24,Very Low,12.16,High,29.50,Low,24.78,Low,155.83,High
 Ben Arous,Tunisia,39.69,Very Low,45.89,Moderate,47.41,Moderate,93.17,Very High,25.29,Very Low,9.29,Moderate,95.00,Very High,57.47,Moderate,91.21,Very Low
 Djerba,Tunisia,?,,73.04,High,70.83,High,94.49,Very High,?,,8.73,Moderate,18.50,Very Low,58.47,Moderate,?,
 Gabes,Tunisia,26.44,Very Low,61.15,High,52.78,Moderate,88.15,Very High,27.97,Very Low,31.33,Very High,25.00,Very Low,97.19,Very High,80.22,Very Low
 Jendouba,Tunisia,?,,21.32,Low,25.00,Low,85.29,Very High,?,,2.67,Very Low,0.00,Very Low,51.72,Moderate,?,
+Sfax,Tunisia,27.18,Very Low,62.72,High,44.44,Moderate,94.52,Very High,25.17,Very Low,12.76,High,20.00,Very Low,96.03,Very High,102.22,Low
+Sousse,Tunisia,29.54,Very Low,48.35,Moderate,64.58,High,95.79,Very High,27.75,Very Low,11.17,Moderate,26.25,Very Low,69.71,High,120.21,Moderate
+Tunis,Tunisia,24.46,Very Low,52.20,Moderate,54.14,Moderate,93.24,Very High,29.89,Very Low,14.89,High,37.88,Moderate,72.62,High,103.39,Low
+Adana,Turkey,?,,49.03,Moderate,78.54,High,88.99,Very High,?,,6.82,Low,27.89,Low,33.55,Low,?,
 Alanya,Turkey,?,,78.28,High,97.22,Very High,?,,?,,9.53,Moderate,12.25,Very Low,17.82,Very Low,?,
+Ankara,Turkey,37.75,Very Low,60.49,High,69.10,High,91.49,Very High,21.78,Very Low,8.39,Moderate,36.35,Moderate,65.40,High,131.14,Moderate
+Antalya,Turkey,35.21,Very Low,74.08,High,76.35,High,91.52,Very High,21.58,Very Low,11.47,Moderate,32.96,Low,39.88,Low,155.47,High
+Bursa,Turkey,34.18,Very Low,71.90,High,78.58,High,93.39,Very High,21.96,Very Low,7.40,Low,33.00,Low,44.54,Moderate,156.39,High
 Fethiye,Turkey,?,,76.36,High,87.96,Very High,?,,?,,10.62,Moderate,20.00,Very Low,18.97,Very Low,?,
+Gaziantep,Turkey,?,,61.58,High,66.67,High,73.21,High,?,,6.87,Low,16.00,Very Low,63.32,High,?,
 Isparta,Turkey,?,,92.65,Very High,66.67,High,?,,?,,5.83,Low,80.00,Very High,67.82,High,?,
-Istanbul,Turkey,30.86,Very Low,52.71,Moderate,69.26,High,93.02,Very High,23.35,Very Low,13.32,High,52.51,High,69.14,High,109.41,Low
+Istanbul,Turkey,30.91,Very Low,52.71,Moderate,69.26,High,93.02,Very High,23.32,Very Low,13.32,High,52.51,High,69.14,High,109.43,Low
+Istanbul,Turkey,30.91,Very Low,52.71,Moderate,69.26,High,93.02,Very High,23.32,Very Low,13.32,High,52.51,High,69.14,High,109.43,Low
+Izmir,Turkey,35.99,Very Low,70.13,High,72.73,High,96.88,Very High,21.56,Very Low,11.73,Moderate,39.50,Moderate,59.12,Moderate,137.80,Moderate
 Kahramanmaras,Turkey,?,,67.65,High,88.89,Very High,74.02,High,?,,4.34,Very Low,15.00,Very Low,89.66,Very High,?,
 Kayseri,Turkey,37.97,Very Low,74.32,High,55.95,Moderate,65.66,High,21.81,Very Low,5.10,Low,23.00,Very Low,73.56,High,128.79,Moderate
 Malatya,Turkey,?,,69.26,High,75.00,High,66.36,High,?,,3.97,Very Low,37.50,Moderate,69.83,High,?,
+Mersin,Turkey,46.86,Low,58.94,Moderate,62.36,High,?,,18.63,Very Low,4.45,Very Low,15.00,Very Low,40.00,Moderate,?,
+Samsun,Turkey,?,,68.98,High,68.40,High,90.31,Very High,?,,3.33,Very Low,34.11,Low,69.81,High,?,
 Trabzon,Turkey,?,,83.55,Very High,89.35,Very High,93.56,Very High,?,,5.87,Low,7.50,Very Low,58.43,Moderate,?,
 Yalova,Turkey,?,,64.54,High,52.78,Moderate,?,,?,,?,,37.50,Moderate,46.91,Moderate,?,
+Ashgabat,Turkmenistan,11.84,Very Low,63.50,High,50.00,Moderate,64.68,High,132.36,Very High,22.34,Very High,15.80,Very Low,38.36,Low,109.00,Low
+Kampala,Uganda,9.26,Very Low,45.36,Moderate,47.51,Moderate,98.41,Very High,34.97,Very Low,"1,484.08",,42.64,High,90.14,Very High,0.00,Very Low
+Kharkiv,Ukraine,33.19,Very Low,51.84,Moderate,47.50,Moderate,65.35,High,31.27,Very Low,10.49,Moderate,37.82,Moderate,56.09,Moderate,110.06,Low
 Lugansk,Ukraine,?,,13.90,Very Low,61.57,High,64.91,High,?,,?,,25.00,Very Low,43.10,Moderate,?,
+Lviv,Ukraine,37.08,Very Low,60.46,High,59.12,Moderate,69.61,High,30.86,Very Low,11.07,Moderate,33.22,Low,51.77,Moderate,126.63,Moderate
 Mariupol,Ukraine,?,,68.77,High,50.00,Moderate,?,,?,,?,,30.00,Low,91.09,Very High,?,
-Rivne,Ukraine,?,,57.06,Moderate,49.54,Moderate,69.00,High,?,,5.68,Low,30.00,Low,34.48,Low,?,
-Port Vila,Vanuatu,19.60,Very Low,55.06,Moderate,40.51,Moderate,83.58,Very High,74.69,High,8.24,Moderate,15.00,Very Low,40.14,Moderate,129.47,Moderate
-Barcelona,Venezuela,?,,20.83,Low,41.67,Moderate,66.77,High,?,,?,,22.50,Very Low,83.62,Very High,?,
-Aden,Yemen,?,,22.35,Low,52.78,Moderate,75.72,High,?,,13.02,High,15.00,Very Low,97.70,Very High,?,
-Sanaa,Yemen,?,,26.96,Low,11.11,Very Low,?,,?,,31.23,Very High,15.00,Very Low,85.06,Very High,?,

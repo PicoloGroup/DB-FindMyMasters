@@ -120,11 +120,9 @@ def collect_city_urls(url: str, name: str) -> dict:
             
             if option["value"] != "":
                 
-                # create city url 
-                city_url = f"{BASE_URL}/in/{option['value'].replace(' ', '-')}-{name}"
-
                 # save city
-                cities[option['value']] = city_url
+                cities[option['value']] = f"{BASE_URL}/in/{option['value'].replace(' ', '-')}-{name}"
+                cities[f"{option['value']}-2"] = f"{BASE_URL}/in/{option['value'].replace(' ', '-')}"
 
     return cities
 
@@ -246,7 +244,10 @@ def collect_countries_and_cities_quality_indexes():
                     city_row.extend(city_indexes["Pollution Index"])
                     city_row.extend(city_indexes["Quality of Life Index"])
 
-                    city_indexes_rows.append([city] + [country] + city_row)
+                    if "-2" in city:
+                        city_indexes_rows.append([city.strip("-2")] + [country] + city_row)
+                    else:
+                        city_indexes_rows.append([city] + [country] + city_row)
 
                 except:
 
