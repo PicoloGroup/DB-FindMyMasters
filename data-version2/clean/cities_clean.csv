@@ -8,10 +8,10 @@ id,city,country,purchasing_power_index,safety_index,health_care_index,climate_in
 6,Setif,Algeria,20.84,39.92,59.26,80.17,26.38,94.89,13.5,72.41,26.16
 7,Skikda,Algeria,NULL,86.76,22.22,NULL,NULL,NULL,3.0,117.24,NULL
 8,Tebessa,Algeria,NULL,48.53,43.52,82.86,NULL,6.67,25.0,22.41,NULL
-9,Tizi-ouzou,Algeria,NULL,41.2,44.44,94.76,NULL,9.22,15.0,95.69,NULL
+9,Tiziouzou,Algeria,NULL,41.2,44.44,94.76,NULL,9.22,15.0,95.69,NULL
 10,Tlemcen,Algeria,NULL,43.55,42.82,89.09,NULL,21.35,56.67,40.52,NULL
 11,Luanda,Angola,24.50,32.8,38.31,79.91,62.70,16.60,56.33,97.55,52.09
-12,Saint John's,Antigua And Barbuda,62.33,52.53,62.14,56.94,76.13,6.92,19.33,24.41,154.56
+12,Saint Johns,Antigua And Barbuda,62.33,52.53,62.14,56.94,76.13,6.92,19.33,24.41,154.56
 13,Buenos Aires,Argentina,27.93,36.92,69.39,98.28,35.14,32.34,48.15,52.43,95.26
 14,Cordoba,Argentina,NULL,39.84,70.13,99.95,NULL,7.93,33.0,72.3,NULL
 15,Mendoza,Argentina,NULL,31.74,71.83,87.76,NULL,21.26,42.67,39.29,NULL
@@ -85,7 +85,7 @@ id,city,country,purchasing_power_index,safety_index,health_care_index,climate_in
 83,Curitiba,Brazil,30.01,37.86,66.14,99.60,30.52,16.10,32.24,31.43,134.37
 84,Florianopolis,Brazil,31.29,47.56,58.31,97.00,31.68,15.78,44.76,39.82,124.08
 85,Fortaleza,Brazil,19.98,21.73,49.05,80.35,31.85,20.40,45.33,52.85,83.77
-86,Foz do Iguaçu,Brazil,NULL,40.44,56.94,96.86,NULL,18.04,35.67,17.82,NULL
+86,Foz do Iguau,Brazil,NULL,40.44,56.94,96.86,NULL,18.04,35.67,17.82,NULL
 87,Londrina,Brazil,NULL,46.56,70.83,97.01,NULL,NULL,25.86,29.31,NULL
 88,Manaus,Brazil,NULL,29.16,45.98,67.93,NULL,NULL,37.88,79.34,NULL
 89,Maringa,Brazil,NULL,50.36,72.69,97.27,NULL,12.50,26.0,11.21,NULL
@@ -165,7 +165,7 @@ id,city,country,purchasing_power_index,safety_index,health_care_index,climate_in
 163,Shenyang,China,54.89,77.82,77.78,35.46,40.98,22.28,20.75,91.78,105.86
 164,Shenzhen,China,68.98,66.97,59.57,81.80,51.12,43.79,36.45,62.39,103.45
 165,Wuhan,China,50.06,76.35,71.67,82.22,43.59,19.22,37.33,89.43,112.41
-166,Xi'an,China,54.71,83.15,68.52,73.90,38.31,16.12,43.0,93.0,112.05
+166,Xian,China,54.71,83.15,68.52,73.90,38.31,16.12,43.0,93.0,112.05
 167,Xiamen,China,41.10,75.95,74.07,84.71,44.05,52.89,60.67,39.5,98.32
 168,Zhengzhou,China,59.15,77.92,77.78,74.29,39.45,14.36,65.0,98.35,102.12
 169,Barranquilla,Colombia,28.16,40.36,62.24,54.07,28.21,12.25,38.0,55.92,103.01
@@ -223,7 +223,7 @@ id,city,country,purchasing_power_index,safety_index,health_care_index,climate_in
 221,Antibes,France,NULL,80.2,69.44,94.34,NULL,8.61,42.0,39.53,NULL
 222,Bordeaux,France,80.41,52.94,83.29,93.30,77.57,9.92,31.56,39.27,163.41
 223,Brest,France,NULL,46.1,87.4,93.14,NULL,NULL,35.0,28.07,NULL
-224,Ivry-sur-Seine,France,NULL,25.0,72.22,NULL,NULL,16.20,32.0,43.1,NULL
+224,IvrysurSeine,France,NULL,25.0,72.22,NULL,NULL,16.20,32.0,43.1,NULL
 225,La Rochelle,France,NULL,76.41,61.11,NULL,NULL,NULL,75.0,10.0,NULL
 226,Limoges,France,NULL,68.68,62.73,NULL,NULL,2.29,15.0,1.72,NULL
 227,Lyon,France,83.05,51.2,78.28,88.51,77.57,8.78,35.92,50.96,151.16
@@ -237,7 +237,7 @@ id,city,country,purchasing_power_index,safety_index,health_care_index,climate_in
 235,Paris,France,78.90,45.17,80.16,88.39,83.98,20.08,42.36,63.26,123.84
 236,Pau,France,NULL,62.17,84.72,NULL,NULL,4.37,9.0,43.1,NULL
 237,Rennes,France,82.08,47.89,91.11,90.40,71.01,8.08,23.25,39.97,169.90
-238,Rueil-Malmaison,France,NULL,72.79,83.33,NULL,NULL,NULL,42.5,39.08,NULL
+238,RueilMalmaison,France,NULL,72.79,83.33,NULL,NULL,NULL,42.5,39.08,NULL
 239,Strasbourg,France,93.88,66.67,89.19,84.71,75.41,7.54,23.2,38.93,182.16
 240,Toulouse,France,90.40,52.56,84.81,91.87,75.76,7.81,30.83,40.91,168.91
 241,Versailles,France,108.38,88.24,88.89,82.07,73.99,10.66,19.0,17.24,211.33
@@ -252,7 +252,7 @@ id,city,country,purchasing_power_index,safety_index,health_care_index,climate_in
 250,Frankfurt,Germany,110.94,56.01,74.85,84.72,70.93,11.31,25.01,36.74,175.16
 251,Hamburg,Germany,99.31,56.99,75.18,82.75,69.27,11.18,34.69,30.74,169.94
 252,Jena,Germany,94.71,85.03,63.89,78.77,68.90,7.66,25.0,30.0,185.16
-253,Lübeck,Germany,82.84,62.66,68.06,83.53,67.46,8.32,55.0,11.49,169.30
+253,Lbeck,Germany,82.84,62.66,68.06,83.53,67.46,8.32,55.0,11.49,169.30
 254,Munich,Germany,98.96,82.44,77.79,75.98,75.65,15.72,32.92,24.96,180.86
 255,Passau,Germany,NULL,71.71,62.5,NULL,NULL,7.25,23.0,16.03,NULL
 256,Stuttgart,Germany,108.20,70.96,72.11,81.07,67.08,10.01,34.12,45.58,170.46
@@ -284,7 +284,7 @@ id,city,country,purchasing_power_index,safety_index,health_care_index,climate_in
 282,Hong Kong,Hong Kong,66.94,78.01,66.26,83.64,80.16,46.69,42.56,67.74,99.02
 283,Budapest,Hungary,52.76,64.59,51.24,78.41,43.83,14.73,39.0,54.37,125.17
 284,Vac,Hungary,NULL,78.92,50.0,77.43,NULL,10.91,13.5,5.17,NULL
-285,Érd,Hungary,61.03,70.1,44.44,77.71,39.25,8.97,22.5,47.13,147.58
+285,rd,Hungary,61.03,70.1,44.44,77.71,39.25,8.97,22.5,47.13,147.58
 286,Akureyri,Iceland,103.79,77.69,65.74,58.34,84.59,4.42,18.0,30.23,184.08
 287,Reykjavik,Iceland,73.80,78.01,66.89,68.81,96.62,7.24,19.96,15.01,181.32
 288,Agartala,India,49.94,75.49,50.56,69.93,24.00,5.27,19.5,50.76,150.00
@@ -326,7 +326,7 @@ id,city,country,purchasing_power_index,safety_index,health_care_index,climate_in
 324,Kolkata,India,40.59,53.09,57.43,60.90,25.64,11.76,60.36,78.33,89.33
 325,Kota,India,55.22,68.72,59.26,54.26,22.35,5.34,41.0,69.55,123.80
 326,Kurnool,India,33.84,63.68,71.3,NULL,21.42,10.04,27.0,67.11,NULL
-327,Lucknow (Lakhnau),India,50.01,50.48,62.09,59.46,25.07,8.40,45.93,78.11,103.95
+327,Lucknow Lakhnau,India,50.01,50.48,62.09,59.46,25.07,8.40,45.93,78.11,103.95
 328,Ludhiana,India,35.50,47.08,67.55,NULL,25.00,11.47,21.09,86.11,NULL
 329,Malappuram,India,NULL,62.99,94.44,NULL,NULL,NULL,0.0,109.48,NULL
 330,Mangalore,India,43.42,74.69,78.16,66.65,23.58,8.49,31.84,45.81,150.88
@@ -382,9 +382,9 @@ id,city,country,purchasing_power_index,safety_index,health_care_index,climate_in
 380,Malahide,Ireland,NULL,51.11,88.89,NULL,NULL,NULL,15.0,27.59,NULL
 381,Douglas,Isle Of Man,138.71,83.42,72.81,91.32,72.79,4.41,5.0,16.19,231.77
 382,Haifa,Israel,78.43,72.66,74.27,93.57,86.64,8.32,29.7,74.79,146.91
-383,Tel Aviv-Yafo,Israel,69.31,73.84,74.67,93.88,94.06,20.37,36.94,46.98,146.24
+383,Tel AvivYafo,Israel,69.31,73.84,74.67,93.88,94.06,20.37,36.94,46.98,146.24
 384,Alba Adriatica,Italy,NULL,31.99,36.11,NULL,NULL,NULL,0.0,53.45,NULL
-385,Anzio (Rome),Italy,NULL,68.87,81.48,94.35,NULL,5.79,100.0,60.34,NULL
+385,Anzio Rome,Italy,NULL,68.87,81.48,94.35,NULL,5.79,100.0,60.34,NULL
 386,Aosta,Italy,NULL,77.94,94.44,NULL,NULL,6.38,32.0,28.74,NULL
 387,Bari,Italy,67.41,48.63,51.08,95.02,61.15,7.03,17.43,50.03,148.17
 388,Barletta,Italy,59.48,50.29,69.44,NULL,53.77,8.03,58.5,40.46,NULL
@@ -435,9 +435,9 @@ id,city,country,purchasing_power_index,safety_index,health_care_index,climate_in
 433,Kisumu,Kenya,NULL,89.71,44.44,97.59,NULL,NULL,20.0,0.0,NULL
 434,Mombasa,Kenya,NULL,31.87,83.47,74.35,NULL,NULL,60.0,73.56,NULL
 435,Nairobi,Kenya,28.44,41.07,61.54,99.79,36.21,22.83,56.62,79.72,81.88
-436,Pristina,Kosovo (Disputed Territory),48.70,67.83,65.28,76.84,25.25,10.76,21.92,71.07,133.50
+436,Pristina,Kosovo Disputed Territory,48.70,67.83,65.28,76.84,25.25,10.76,21.92,71.07,133.50
 437,Ardiya,Kuwait,NULL,94.12,58.33,20.18,NULL,NULL,10.0,89.66,NULL
-438,As-salimiyah,Kuwait,74.05,50.0,56.94,22.79,53.59,7.50,33.5,22.41,140.44
+438,Assalimiyah,Kuwait,74.05,50.0,56.94,22.79,53.59,7.50,33.5,22.41,140.44
 439,Kuwait City,Kuwait,68.76,69.2,59.62,20.22,48.08,15.75,32.11,65.81,112.21
 440,Bishkek,Kyrgyzstan,21.98,43.06,52.35,58.11,25.22,15.89,33.22,73.38,86.69
 441,Vientiane,Laos,NULL,68.59,33.73,74.16,NULL,23.94,21.5,81.14,NULL
@@ -614,7 +614,7 @@ id,city,country,purchasing_power_index,safety_index,health_care_index,climate_in
 612,Tacloban,Philippines,NULL,60.54,72.22,57.75,NULL,NULL,10.0,46.55,NULL
 613,Gdansk,Poland,42.88,66.59,49.93,75.51,47.92,18.35,31.55,59.23,117.19
 614,Katowice,Poland,50.94,56.03,41.22,72.49,39.53,12.90,31.04,70.77,109.49
-615,Krakow (Cracow),Poland,49.53,67.57,52.22,73.86,44.05,17.06,32.09,74.29,112.06
+615,Krakow Cracow,Poland,49.53,67.57,52.22,73.86,44.05,17.06,32.09,74.29,112.06
 616,Lodz,Poland,42.72,56.06,51.29,77.02,38.16,15.72,35.13,67.19,109.40
 617,Poznan,Poland,44.54,67.21,51.58,77.41,41.32,16.80,33.27,65.64,116.53
 618,Warsaw,Poland,44.24,71.44,56.91,74.61,54.13,18.09,35.37,61.78,118.67
@@ -662,7 +662,7 @@ id,city,country,purchasing_power_index,safety_index,health_care_index,climate_in
 660,Penza,Russia,NULL,64.71,45.83,47.55,NULL,9.57,31.0,55.86,NULL
 661,Perm,Russia,35.34,53.08,43.86,28.10,33.46,10.29,44.09,62.62,90.16
 662,Petrozavodsk,Russia,NULL,65.58,100.0,NULL,NULL,NULL,43.0,47.13,NULL
-663,Rostov-na-donu,Russia,36.79,47.48,54.01,73.85,33.74,9.09,41.0,72.07,103.67
+663,Rostovnadonu,Russia,36.79,47.48,54.01,73.85,33.74,9.09,41.0,72.07,103.67
 664,Saint Petersburg,Russia,41.33,60.82,59.17,60.64,38.10,17.25,48.37,62.36,104.00
 665,Samara,Russia,34.83,63.34,45.96,41.31,36.44,10.88,41.89,60.1,102.22
 666,Saratov,Russia,26.06,52.52,26.74,52.30,32.44,12.44,40.27,82.76,73.82
@@ -672,7 +672,7 @@ id,city,country,purchasing_power_index,safety_index,health_care_index,climate_in
 670,Sochi,Russia,NULL,65.35,46.54,91.70,NULL,22.99,40.75,33.49,NULL
 671,Stavropol,Russia,39.44,65.05,58.89,71.68,29.87,8.66,26.5,23.89,154.92
 672,Taganrog,Russia,NULL,69.98,50.0,NULL,NULL,4.86,21.5,59.77,NULL
-673,Tolyatti (Togliatti),Russia,NULL,62.58,47.5,38.13,NULL,6.76,27.0,65.96,NULL
+673,Tolyatti Togliatti,Russia,NULL,62.58,47.5,38.13,NULL,6.76,27.0,65.96,NULL
 674,Tyumen,Russia,39.84,58.66,64.19,22.44,33.00,10.86,34.8,44.57,117.15
 675,Ufa,Russia,37.21,47.06,58.58,28.12,33.98,11.16,40.35,85.39,79.56
 676,Ulyanovsk,Russia,27.05,42.94,40.28,NULL,35.04,10.23,14.0,47.84,NULL
@@ -682,19 +682,19 @@ id,city,country,purchasing_power_index,safety_index,health_care_index,climate_in
 680,Voronezh,Russia,35.61,59.06,47.31,57.69,35.34,11.62,34.33,71.51,101.94
 681,Yakutsk,Russia,66.20,80.65,61.11,-12.15,40.25,8.30,35.0,66.67,112.93
 682,Yekaterinburg,Russia,56.24,53.23,50.88,21.33,34.84,8.85,38.37,75.94,94.43
-683,Yuzhno-Sakhalinsk,Russia,NULL,54.04,36.11,23.15,NULL,13.47,20.0,95.98,NULL
+683,YuzhnoSakhalinsk,Russia,NULL,54.04,36.11,23.15,NULL,13.47,20.0,95.98,NULL
 684,Kigali,Rwanda,26.63,75.2,68.82,99.74,31.90,210.56,16.0,45.91,0.00
 685,Georgetown,Saint Vincent And The Grenadines,18.10,29.24,35.71,65.81,48.14,36.75,52.0,66.84,45.96
 686,Ad Dammam,Saudi Arabia,93.44,69.73,61.4,27.34,47.29,3.34,29.0,60.53,142.98
 687,Al Khobar,Saudi Arabia,92.97,87.42,69.44,27.72,57.84,3.33,23.8,58.28,158.05
-688,Al-khubar,Saudi Arabia,NULL,82.76,48.61,30.69,NULL,NULL,31.67,31.72,NULL
+688,Alkhubar,Saudi Arabia,NULL,82.76,48.61,30.69,NULL,NULL,31.67,31.72,NULL
 689,Buraydah,Saudi Arabia,114.24,87.35,41.67,28.67,42.92,0.76,20.0,40.23,173.72
-690,Jeddah (Jiddah),Saudi Arabia,78.19,70.88,58.72,66.17,52.12,3.15,28.71,68.18,144.09
+690,Jeddah Jiddah,Saudi Arabia,78.19,70.88,58.72,66.17,52.12,3.15,28.71,68.18,144.09
 691,Jubail,Saudi Arabia,85.71,74.31,51.92,27.28,50.62,6.93,20.22,64.68,136.07
 692,Medina,Saudi Arabia,82.14,90.79,44.51,26.18,52.81,2.11,24.5,79.8,131.94
 693,Riyadh,Saudi Arabia,91.82,73.25,64.55,44.45,52.59,2.77,30.01,64.58,147.91
 694,Dakar,Senegal,23.03,57.63,50.64,85.64,50.77,115.65,25.0,96.36,0.00
-695,Saint-Louis,Senegal,144.63,29.47,80.43,74.75,66.87,1.61,27.23,39.04,181.74
+695,SaintLouis,Senegal,144.63,29.47,80.43,74.75,66.87,1.61,27.23,39.04,181.74
 696,Belgrade,Serbia,36.78,61.87,54.08,84.14,39.51,20.61,35.91,64.95,109.51
 697,Cuprija,Serbia,33.12,58.82,64.58,81.60,28.35,7.85,5.0,56.25,145.01
 698,Jagodina,Serbia,NULL,59.06,60.0,81.53,NULL,12.73,25.0,70.44,NULL
@@ -753,7 +753,7 @@ id,city,country,purchasing_power_index,safety_index,health_care_index,climate_in
 751,Santiago de Compostela,Spain,56.55,83.86,76.21,94.25,48.61,12.25,15.5,13.22,192.78
 752,Valencia,Spain,69.68,75.18,80.61,93.84,52.29,7.48,29.35,44.45,171.96
 753,Vigo,Spain,75.06,80.56,73.29,96.17,52.91,8.97,20.8,19.39,194.09
-754,Zaragoza (Saragossa),Spain,67.67,79.94,78.01,90.20,54.43,8.18,14.43,36.22,183.33
+754,Zaragoza Saragossa,Spain,67.67,79.94,78.01,90.20,54.43,8.18,14.43,36.22,183.33
 755,Colombo,Sri Lanka,18.83,59.5,71.87,59.11,32.80,48.44,62.17,60.41,62.66
 756,Khartoum,Sudan,5.86,63.78,46.78,32.95,43.57,38.44,42.0,74.83,50.25
 757,Paramaribo,Suriname,16.59,46.42,43.14,64.25,48.40,9.83,33.0,52.13,102.59
@@ -761,10 +761,10 @@ id,city,country,purchasing_power_index,safety_index,health_care_index,climate_in
 759,Mbabane,Swaziland,NULL,69.19,63.89,97.81,NULL,1.48,13.5,19.83,NULL
 760,Gothenburg,Sweden,99.26,51.79,69.14,77.49,74.11,9.08,25.55,20.7,176.02
 761,Helsingborg,Sweden,100.88,44.25,90.97,78.69,67.65,7.34,19.0,52.84,166.26
-762,Hässleholm,Sweden,NULL,100.0,91.67,NULL,NULL,6.85,85.0,0.0,NULL
+762,Hssleholm,Sweden,NULL,100.0,91.67,NULL,NULL,6.85,85.0,0.0,NULL
 763,Kalmar,Sweden,69.04,58.49,84.72,75.14,71.54,5.80,13.0,15.52,186.00
 764,Karlskrona,Sweden,NULL,59.83,20.83,73.94,NULL,NULL,33.0,3.45,NULL
-765,Nyköping,Sweden,NULL,93.75,75.0,68.63,NULL,23.70,100.0,27.59,NULL
+765,Nykping,Sweden,NULL,93.75,75.0,68.63,NULL,23.70,100.0,27.59,NULL
 766,Solna,Sweden,NULL,63.28,66.67,69.59,NULL,11.73,29.0,41.95,NULL
 767,Stockholm,Sweden,90.99,54.15,66.37,69.67,79.32,13.11,35.38,19.48,161.53
 768,Sundsvall,Sweden,NULL,60.84,76.85,46.71,NULL,3.46,13.0,17.39,NULL
@@ -788,7 +788,7 @@ id,city,country,purchasing_power_index,safety_index,health_care_index,climate_in
 786,Phuket,Thailand,27.21,55.06,74.25,68.52,43.43,18.78,36.36,50.34,116.08
 787,Si Sa Ket,Thailand,NULL,63.24,55.56,62.02,NULL,NULL,30.0,34.48,NULL
 788,Surin,Thailand,NULL,36.76,72.22,68.52,NULL,NULL,45.0,37.93,NULL
-789,Dili,Timor-Leste,10.64,57.37,54.58,NULL,54.65,63.24,25.0,62.96,NULL
+789,Dili,TimorLeste,10.64,57.37,54.58,NULL,54.65,63.24,25.0,62.96,NULL
 790,Chaguanas,Trinidad And Tobago,NULL,25.82,66.67,66.25,NULL,11.23,33.33,88.45,NULL
 791,San Juan,Trinidad And Tobago,67.23,30.98,63.45,71.25,69.68,5.54,37.46,50.83,126.38
 792,Al Marsa,Tunisia,23.36,71.9,64.81,93.80,32.24,12.16,29.5,24.78,155.83
