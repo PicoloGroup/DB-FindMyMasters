@@ -14,7 +14,7 @@
 ## Architecture:
 
 <p align="center">
-  <img src="https://github.com/PicoloGroup/DB-FindMyMasters/blob/master/assets/FindMyMastersDB-Final.png" />
+  <img src="https://github.com/PicoloGroup/DB-FindMyMasters/blob/master/assets/FindMyMastersDB-VLast.png" />
 </p>
 
 <!-- ## Master Programs:
